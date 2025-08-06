@@ -40,4 +40,4 @@ yarn-error.log*
 sharp.js
 
 .idea
-pacman.json
+/pacman.json
