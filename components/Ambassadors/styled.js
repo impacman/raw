@@ -25,7 +25,7 @@ export const AmbassadorsCom = styled.div`
   }
 
   & img {
-    transform: translate(-50%, -50%) scale(1.05);
+    transform: scale(1.1);
   }
 `;
 
