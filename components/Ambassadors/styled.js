@@ -23,6 +23,10 @@ export const AmbassadorsCom = styled.div`
       transform: scaleY(0);
     }
   }
+
+  & img {
+    transform: translate(-50%, -50%) scale(1.05);
+  }
 `;
 
 export const WrapTypeForm = styled.div`
@@ -71,7 +75,7 @@ export const WrapBtn = styled.div`
   @media only screen and (max-width: 575px) {
     width: 100%;
     bottom: 0;
-    padding: 0 ${mobVw.ambassadors(24)} ${mobVw.ambassadors(100)};
+    padding: 0 ${mobVw.ambassadors(24)} ${mobVw.ambassadors(24)};
   }
 
   transition: transform 0.3s ease 0.3s, opacity 0.3s ease 0s;
