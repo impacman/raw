@@ -1,0 +1,107 @@
+{
+  "title": "RAW – Date 100% real people",
+  "img": {
+    "path": "getraw",
+    "src": "main",
+    "alt": "RAW – Date 100% real people"
+  },
+  "screenshots": {
+    "title": "iPhone Screenshots",
+    "items": [
+      {
+        "id": 1,
+        "img": {
+          "path": "getraw/screens",
+          "src": "1",
+          "alt": "RAW – Screen 1"
+        }
+      },
+      {
+        "id": 2,
+        "img": {
+          "path": "getraw/screens",
+          "src": "2",
+          "alt": "RAW – Screen 2"
+        }
+      },
+      {
+        "id": 3,
+        "img": {
+          "path": "getraw/screens",
+          "src": "3",
+          "alt": "RAW – Screen 3"
+        }
+      },
+      {
+        "id": 4,
+        "img": {
+          "path": "getraw/screens",
+          "src": "4",
+          "alt": "RAW – Screen 4"
+        }
+      },
+      {
+        "id": 5,
+        "img": {
+          "path": "getraw/screens",
+          "src": "5",
+          "alt": "RAW – Screen 5"
+        }
+      },
+      {
+        "id": 6,
+        "img": {
+          "path": "getraw/screens",
+          "src": "6",
+          "alt": "RAW – Screen 6"
+        }
+      }
+    ]
+  },
+  "descr": "Welcome to RAW, the game-changing dating app that is going viral across real folx. We’re all about true, unfiltered connections.<br><br><br>No fakes, no catfishing, and no scams here – just authentic raw people looking to fall in love at first sight.<br><br>FALL IN LOVE WITH THE REAL.<br><br><br><br>RAW is not just another fake dating app. We have only 100% real people, just like you. Say goodbye to catfishing and photoshopped pics. Daily photos made through back&front camera get you a real crush, not fake profiles. With RAW, what you see is what you get.<br><br><br><br>UNFILTERED. TRUE. RAW.<br><br><br><br>RAW is a unique community that goes against the trend of those over-edited photos you see on other dating apps. To access the feed all you gotta do is take a quick back&front shot with your phone and BAM! You'll be swiping on unfiltered, true images of your potential lovers that are taken in real-time within the app. There’s no сheatcodes for little swindlers.<br><br><br><br>SHOOT YOUR SHOT<br><br><br><br>We've got a new, viral way to show off yourself. Every day, we ask to take a photo using RAW's back&front camera, showing a real-time snapshot of not just your potential crush but a sneak peek of their life too. This way, pics are always fresh and you have a better chance to match with your dream crush. No old photos and definitely no photoshopping, just the real deal.<br><br><br><br>Press GET, cut the fake, find RAWmance<br><br><br><br>RAW is featured in ELLE’s top 3 new dating apps<br>DM us: hello@raw.app<br>Terms: https://www.raw.app/terms-conditions/Privacy <br>Policy: https://www.raw.app/privacy-policy<br>Tag #rawapp to be featured",
+  "newVersoin": {
+    "title": "What’s New",
+    "version": "Version 1.10.3",
+    "descr": "Roses are red, violets are blue, and our update ensures that RAW stays up-to-date too. Doesn't really work as a punchline, but we tried. Anyway, this update is about bug fixes and performance improvements, if that's your thing."
+  },
+  "reviews": {
+    "title": "Ratings and Reviews",
+    "img": {
+      "path": "getraw",
+      "src": "rew",
+      "alt": "Ratings and Reviews"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "BlikiMaster, 19/11/2023",
+        "title": "Busy dating app for serious people",
+        "descr": "Something really new in the world of dating sites. You can find many people here who are really looking for a relationship."
+      },
+      {
+        "id": 2,
+        "name": "Theaifriend, 11/11/2023",
+        "title": "A pretty refreshing change, BUT",
+        "descr": "This app is a really big deviation from the standard dating app model, while also retaining familiar features. I haven’t got any matches yet but I get enough likes to know I’m not being hidden. I really like how you don’t need to pay for boosts and stuff, it’s all referral based. That is a good trend more apps should incorporate.<br><br>The only complaint I have so far is that I set my age range to be at minimum 20, and they still show me 18 and 19 year olds. I’ve tried restarting and resetting the app and the feature, but it still shows them to me. I’d just like the age filter to work a little better.<br><br>Otherwise this is a refreshing way to have a dating app that doesn’t feel exactly like every other one on the market.",
+        "more": true
+      },
+      {
+        "id": 3,
+        "name": "Brenita Gossehkffvqcp, 10/28/2023",
+        "title": "Great app for those looking for something more real.",
+        "descr": "I completely loved this app. I haven’t ever used dating apps and about a year ago I decided to give them a try. I did some research and decided to try Raw first as I was looking for something non-ordinary. As a woman, it is nice to be able to see your matches like in real life, it adds a layer of trust I didn't find in other apps. I had 3 dates with really nice guys before finding my current boyfriend, so we are both very happy we found each other with this app.",
+        "more": true
+      }
+    ]
+  },
+  "privacy": {
+    "title": "App Privacy",
+    "descr": "The developer, <b>Techlead Limited</b>, indicated that the app’s privacy practices may include handling of data as described below. For more information, see the <a href='https://www.raw.app/privacy-policy/'>developer’s privacy policy</a>",
+    "img": {
+      "path": "getraw",
+      "src": "pp",
+      "alt": "App Privac"
+    },
+    "text": "Privacy practices may vary, for example, based on the features you use or your age. "
+  }
+}

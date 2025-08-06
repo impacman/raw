@@ -1,0 +1,45 @@
+{
+  "data": {
+    "form": {
+      "sheetID": 1393775777,
+      "inputValidation": ["ghostingNumber"],
+      "fields": [
+        {
+          "id": "phone",
+          "label": "Enter your phone number",
+          "placeholder": "Your phone number with country code",
+          "name": "ghostingNumber"
+        },
+        {
+          "id": "text",
+          "label": "Your ghosting story (optional)",
+          "placeholder": "Tell us how you were ghosted, or keep your secret",
+          "name": "text",
+          "message": true
+        }
+      ],
+      "submit": {
+        "type": "submit",
+        "text": "Send"
+      }
+    },
+    "doneTexts": [
+      {
+        "id": 1,
+        "text": "Thank you for your RAWmessage."
+      },
+      {
+        "id": 2,
+        "text": "Our team will check it and get back to you."
+      },
+      {
+        "id": 3,
+        "text": "&nbsp;"
+      },
+      {
+        "id": 4,
+        "text": "Stay tuned. true. raw"
+      }
+    ]
+  }
+}

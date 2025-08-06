@@ -1,0 +1,16 @@
+{
+  "form": {
+    "fields": [
+      {
+        "id": "password",
+        "label": "Password",
+        "placeholder": "",
+        "name": "password"
+      }
+    ],
+    "submit": {
+      "type": "submit",
+      "text": "Send"
+    }
+  }
+}

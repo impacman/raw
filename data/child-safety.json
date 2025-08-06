@@ -1,0 +1,213 @@
+{
+  "theme": "violet",
+  "numbering": true,
+  "title": "Standards Against Child Sexual Abuse and Exploitation",
+  "description": [
+    {
+      "id": 1,
+      "text": "Last modified: January 10, 2025",
+      "bold": false,
+      "inline": false
+    },
+    {
+      "id": 2,
+      "text": "Effective date: January 10, 2025",
+      "bold": false,
+      "inline": false
+    },
+    {
+      "id": 3,
+      "text": "The https://www.raw.app/ (hereinafter “App”, “Product”, or “we”, “us”, “our” etc.) takes seriously the safety of children on our product and is committed to working to keep our product free of child sexual abuse and exploitation. We strictly prohibit any form of child sexual abuse, exploitation, or inappropriate content involving minors. Our Standards Against Child Sexual Abuse and Exploitation (the \"Standards\") outline the actions we take to uphold this commitment and the expectations we place on all users of our product.",
+      "bold": false,
+      "inline": false
+    }
+  ],
+  "blocks": [
+    {
+      "id": 1,
+      "title": "Zero Tolerance for CSAE and CSAM",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "1.1. CSAE stands for child sexual abuse and exploitation, including content or behavior that sexually exploits, abuses, or endangers children including but not limited to grooming a child for sexual exploitation, sextortion of a child, trafficking of a child for sex, or otherwise sexually exploiting a child.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "1.2. CSAM refers to child sexual abuse material that consists of any visual depiction, including but not limited to photos, videos, and computer-generated imagery, involving the use of a minor engaging in sexually explicit conduct.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "1.3. We have a zero-tolerance policy for any form of CSAE and CSAM. It is illegal and our standards and policies prohibit using our product and services for this. Content that depicts, promotes, or glorifies child abuse and exploitation in any form will be removed, and appropriate legal action will be taken, including reporting such incidents to law enforcement.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Prohibited Activities and Content",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "2.1. The following are strictly prohibited:",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "a) child sexual abuse and exploitation (CSAE);",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 3,
+            "text": "b) uploading, storing, producing, sharing, or promoting any CSAM (child sexual abuse material);",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 4,
+            "text": "c) sharing third-party links to CSAM;",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 5,
+            "text": "d) engaging in or facilitating conversations about sexually explicit conduct involving a child;",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 6,
+            "text": "e) any activities aimed at grooming minors for sexual abuse and exploitation.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 7,
+            "text": "2.2. Actions and materials specified in clause 2.1 of the Standards are strictly prohibited even if the intent is to express outrage or raise awareness about CSAE and CSAM.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 8,
+            "text": "2.3. Meanwhile, we understand that users might want to talk about and share images of their children with their connections. Please keep in mind that any discussions about children must remain appropriate, relevant, and lawful. In addition, if you decide to include photos of children in your profile, they must be completely clothed. This includes any photos from your childhood.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Reporting Mechanisms",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "3.1. We encourage users to report any content or behavior that violates these Standards.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "3.2. To submit reports, feedback, and concerns, users can:",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "a) use the in-app reporting mechanism available in our app;",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 4,
+            "text": "b) contact a designated point of contact to receive potential notifications about CSAE content found in our app via childsafety@raw.app.",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 5,
+            "text": "c) contact the support team via hello@raw.app.",
+            "bold": false,
+            "mb": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Enforcement Mechanisms",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "4.1. We take appropriate action, including but not limited to removing CSAM, after obtaining actual knowledge of it, in accordance with relevant laws and the Standards.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "4.2. We review and investigate all reports promptly.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "4.3. Violation of these standards will result in removal of content, suspension of account, suspension of membership, and contacting relevant authorities. We reserve the right to take all the appropriate actions to uphold these Standards.",
+            "bold": false,
+            "mb": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Cooperation with Law Enforcement",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "5.1. In compliance with applicable child safety laws and regulations, we report confirmed CSAM to the National Center for Missing and Exploited Children or other relevant regional authority.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "5.2. We are committed to full cooperation with law enforcement authorities in the investigation and prosecution of child sexual abuse and exploitation cases. When required, we provide data and assistance to help bring perpetrators to justice.",
+            "bold": false,
+            "mb": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Updates to these Standards",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "These Standards are subject to change by us at any time, to ensure they reflect current laws, regulations, and best practices in preventing child sexual abuse and exploitation. Please note that the latest modification date is indicated at the beginning of these Standards.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    }
+  ]
+}

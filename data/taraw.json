@@ -1,0 +1,151 @@
+{
+  "bg": {
+    "path": "bg",
+    "src": "taraw",
+    "alt": "TARAW Bg"
+  },
+  "title": "taraw",
+  "descr": "Reveal your destiny",
+  "tap": ["Tap for your", "prediction"],
+  "btn": {
+    "text": "Get RAW and be loved",
+    "link": "https://get.raw.app/FNko/taraw"
+  },
+  "footnote": ["*even if it's an ad, why", "can't it be a sign?"],
+  "predictions": [
+    {
+      "title": "Knight of Commitment, Breaker of Situationships",
+      "descr": "You've just drawn the Knight of Commitment, heralding a wave of new love. This card signifies that your forthcoming romantic interest will liberate you from the endless loop of casual dating. Embrace this change, as it will lead you to lasting affection and free you from the chains of situationships."
+    },
+    {
+      "title": "Eternal Companion, Lonely Heart Freer",
+      "descr": "You've just drawn the Eternal Companion — you're in for a love that outlasts time itself. The next person you match with is guaranteed to stay by your side, in this life and beyond, never to ghost you — even as they cross to the other side. With this profound connection, your heart will never feel lonely again, forever, even in eternity."
+    },
+    {
+      "title": "Guardian of Hearts, Defender of Daters",
+      "descr": "You've just drawn the Guardian of Hearts, promising a love shielded from deceit. This card assures you that honesty and transparency will prevail, setting the stage for a trust-filled relationship. Thanks to our Scammer's Dungeon feature, your next date on RAW is going to be as real as you, leaving all tricksters locked away."
+    },
+    {
+      "title": "Mirror of Authenticity, Attractor of Quirks",
+      "descr": "You've pulled the Mirror of Authenticity, signaling a connection that embraces all of you. This card means you'll meet a stranger who will love all your regular quirks and weird bits, making you feel closer. Your next RAW match will adore every part of you, from your midnight snore concerts to your endless stream of meme references."
+    },
+    {
+      "title": "Grandmother's Blessing, Adornment Harbinger",
+      "descr": "You've pulled the Grandmother's Blessing, indicating a love story that even the most traditional hearts would cherish. This card is crucial in love, suggesting that support from elders can shield you from bad dating luck. Get ready, because your next love interest on RAW is someone even your grandmother can't help but adore."
+    },
+    {
+      "title": "Reflection of Desire, Mirror of Dual Pics",
+      "descr": "You've pulled the Reflection of Desire card, forecasting a love breathtaking in beauty. This card hints that you'll encounter a match that feels like it's straight out of a fairy tale. Your next RAW crush is so stunning, they'd be the answer to 'mirror, mirror on the wall, who's the fairest of them all?'"
+    },
+    {
+      "title": "Fortune's Favor, Love Luck Turner",
+      "descr": "You've just drawn the Fortune's Favor, marking a once-in-a-millennium cosmic alignment just for you. This card is very rare, signifying you're one of the chosen few. Its appearance foretells transformative experiences in your love life. Every swipe right on RAW is destined to be a match, heralding an unmatched streak of luck in love."
+    },
+    {
+      "title": "Envy of Hearts, Charmer's Allure",
+      "descr": "You've unveiled the Envy of Hearts, signifying a connection that will turn heads and spark envy among your friends. Your next crush will be so impressive, everyone around you will wish they were in your shoes. This can attract unwanted jealousy, so prepare to ward off the evil eye. Quick tip: carry garlic in your pocket."
+    },
+    {
+      "title": "Love's Liberation, Breaker of Chains",
+      "descr": "You've unveiled the Love's Liberation card, indicating your next crush is a big deal, breaking a family curse you didn't even RSVP for. Say goodbye to mysterious history and mistakes of elders, say hello to fresh starts and renewed hope. Love will not just find you; it will free you."
+    },
+    {
+      "title": "Shield of Amour, Loyal Heart's Vow",
+      "descr": "You've unveiled the Shield of Amour. This card foretells a bond with someone whose devotion is so steadfast, you could confidently list them as a guarantor on your bank loan application. Your next RAW crush will stick by you as persistently as your past credit card debts, but this time you'll actually be happy about it."
+    },
+    {
+      "title": "Cupid's Charm, Whisper of Joy",
+      "descr": "You've just drawn the Cupid's Charm card, meaning the streak of luck. And we're not talking about just any kind of luck here (so don't rush out to buy lottery tickets), but love luck. Your charm is irresistible — every DM you send on RAW will spark laughter or melt hearts, guaranteeing a response filled with giggles or adoring 'awww's."
+    },
+    {
+      "title": "Hidden Passion, Desire's Connector",
+      "descr": "You've just drawn the Hidden Passion card, indicating a connection with someone who understands and shares your unspoken interests. This person will cherish the parts of you that you've kept hidden away. Whether it's your obsession with collecting quirky socks or your secret talent for yodeling, this RAW crush will find it all endearing."
+    },
+    {
+      "title": "Dream Date Provider, Adventure's Bringer",
+      "descr": "You've just drawn the Dream Date Provider. This card suggests a series of unforgettable dates with your next crush. Whether it's flying in a hot air balloon, a chase with stray cats, or discovering magic beans at a café, each date with your RAW crush will be better than the last. Pack your sense of adventure — and maybe some catnip."
+    },
+    {
+      "title": "Lovers' Destiny, Timeless Bond",
+      "descr": "You've pulled the Lovers' Destiny. Prepare for love as lasting as the number that just flashed through your mind. The relationship you discover on RAW will last for exactly that number of years. That's probably why you've never seen this card before — it's kept under wraps, too powerful for the unprepared."
+    },
+    {
+      "title": "Gift of Affection, Generosity of Spirit",
+      "descr": "You've pulled the Gift of Affection. This card means you'll find a partner happy to pay for your dates, giving freely without expecting anything in return. While footing the bill isn't the most crucial part of love, it's still a nice perk, right? Prepare to meet RAW crush with generous heart, enhancing the connection you'll share."
+    },
+    {
+      "title": "Shock of Affection, Cupid's Messenger",
+      "descr": "You've pulled the Shock of Affection card. It predicts an incoming DM so surprising, it might just take your breath away — literally. Perhaps it'll be a declaration of love, a poetic confession, or maybe just a really good pun about your profile picture. Be ready for a DM on RAW that will leave you lightheaded, in the best possible way."
+    },
+    {
+      "title": "Mirror of Misadventures, Heart's Mender",
+      "descr": "You've pulled the Mirror of Misadventures. This card shows a reflection of your dating life, a bit cracked but still in one piece. Remember, in life, everything that is cracked can quickly be repaired, especially if you put your heart into it. Expect to meet someone on RAW who'll glue everything back together."
+    },
+    {
+      "title": "Wheel of Romantic Destiny, Carousel of Love",
+      "descr": "You've pulled the Wheel of Romantic Destiny. This card spins in your favor, pointing to a date that will be memorable beyond words. Just remember, with the Wheel of Fortune, every spin is an adventure. So whether it's a night of romance or a comedy of errors, it's all part of the journey to finding your perfect RAW crush."
+    },
+    {
+      "title": "Crossed Paths, Melded Hearts",
+      "descr": "You've just drawn the Crossed Paths card. It comes out of the deck, announcing a lucky meeting with someone from your past. Maybe it's your high school crush or a long-lost connection. This chance encounter on RAW will hit you with unexpected nostalgia, igniting sparks that may have dimmed but never truly went out."
+    },
+    {
+      "title": "Celestial Romance, Star Encounter",
+      "descr": "You've just drawn the Celestial Romance. This card hints you might meet someone famous and immediately start dating. They could be a star everyone knows or someone who used to be famous. Get ready, because those teenage dreams of dating someone in the limelight might just become your reality on RAW."
+    },
+    {
+      "title": "Dawn of Devotion, End of Shadows",
+      "descr": "You've just drawn the Dawn of Devotion card. It illuminates your love life, banishing the specter of ghosting from your path. From now on, everyone you meet sticks around to chat, nurturing potential romances and deepening bonds. With RAW's 'No Ghosting' feature, your days of being left in the dark are over."
+    },
+    {
+      "title": "Cupid's Turning Point, Lovers' Epiphany",
+      "descr": "You've just drawn the Cupid's Turning Point. This card forecasts a pivotal moment in your life through an upcoming date. This significant encounter, destined to be discovered on RAW, is set to reshape your world in unimaginable ways. How it transforms your life is in your hands, as the future brims with potential."
+    },
+    {
+      "title": "Unseen Companion, Lover in Waiting",
+      "descr": "You've just drawn The Unseen Companion card. It signals a romantic twist with someone already in your life. Watch out, because it might just be the pal who laughs at your jokes or the coworker sharing your meme love. Sparked on RAW, this unexpected connection promises to redefine your future together in the most enchanting way."
+    },
+    {
+      "title": "Eternal Connection, Sincere Hearts Union",
+      "descr": "You've just drawn the Eternal Connection card. This means your path is clear of fleeting connections. Forget about disappearing partners, people who promise love but can't even love themselves, or frustrating one-night standers. Only those seeking commitment will cross your way on RAW, bringing the depth you've been looking for."
+    },
+    {
+      "title": "Barrier Breaker, Love Path Finder",
+      "descr": "You've unveiled the Barrier Breaker card, that lifts the unseen obstacle that's shadowed your quest for love. Now, with nothing standing in your way, expect your love life to flourish as you discover new depths of intimacy and understanding. Trust your heart to feel the change, paving the way for true connection on RAW."
+    },
+    {
+      "title": "Veil of Mystery, Secret Date Uncoverer",
+      "descr": "You've unveiled the Veil of Mystery card. This means you may get an enigmatic encounter with a mysterious stranger. They hold a secret so astonishing, it will stir your soul. This RAW revelation will not only redefine your life but also transform the way you perceive and experience love, opening your eyes to new wonders."
+    },
+    {
+      "title": "Dawn of Love, End of Solitude",
+      "descr": "You've just drawn the Dawn of Love card. Your future shines brightly, marking the end of your solitary journey. No more solo nights or wondering when love will find you. A cycle closes, opening a life rich with romantic escapades on RAW. Freedom and new beginnings await, promising a future where love is a constant, not a variable."
+    },
+    {
+      "title": "Cinematic Love Bringer, Movie Magic Charmer",
+      "descr": "You've just drawn the Cinematic Love Bringer. This is a prediction of RAW romance filled with ups and downs, just like a classic rom-com. If you're unsure what it means, think of the love story of your dreams, but sprinkled with quirky twists and turns. Expect a whirlwind of emotions and challenges that triumph in the end with RAW's help."
+    },
+    {
+      "title": "Cup of Plenty, Attractor of Love",
+      "descr": "You've just drawn the Cup of Plenty. It means that many crushes will want your attention, lining up to impress you and fight for a special place in your heart. This bounty of admirers also brings a chance to understand what you truly seek in a partner. With all these choices, your heart will help you find the right one for you on RAW."
+    }
+  ],
+  "images": [
+    {
+      "name": ["Guardian", "of Hearts"],
+      "src": "guardian-of-hearts"
+    },
+    {
+      "name": ["Lonely", "Heart Freer"],
+      "src": "lonely-heart-freer"
+    },
+    {
+      "name": ["Celestial", "Romance"],
+      "src": "celestial-romance"
+    },
+    {
+      "name": ["Secret Date", "Uncoverer"],
+      "src": "secret-date-uncoverer"
+    }
+  ]
+}

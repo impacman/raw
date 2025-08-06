@@ -1,0 +1,33 @@
+{
+  "usesTypeScript": false,
+  "usesCssModule": false,
+  "cssPreprocessor": "scss",
+  "testLibrary": false,
+  "component": {
+    "default": {
+      "customTemplates": {
+        "component": "templates/default/TemplateName.jsx",
+        "index": "templates/default/index.js",
+        "style": "templates/default/styled.js"
+      },
+      "path": "components/Ambassadors",
+      "withLazy": false,
+      "withStory": false,
+      "withStyle": true,
+      "withTest": false,
+      "withIndex": true
+    },
+    "page": {
+      "customTemplates": {
+        "component": "templates/page/index.jsx"
+      },
+      "path": "pages",
+      "withLazy": false,
+      "withStory": false,
+      "withStyle": false,
+      "withTest": false,
+      "withIndex": false
+    }
+  },
+  "usesStyledComponents": true
+}

@@ -1,0 +1,269 @@
+{
+  "theme": "white",
+  "numbering": false,
+  "title": "RAW Creators Internship — Terms of Participation",
+  "description": [
+    {
+      "id": 1,
+      "text": "Organized by Techlead Limited\nProject Period: August 1 – October 31, 2025",
+      "bold": false,
+      "inline": false,
+      "mb": true
+    }
+  ],
+  "blocks": [
+    {
+      "id": 1,
+      "title": "About the Internship",
+      "texts": {
+        "order": 1,
+        "items": [
+          {
+            "id": 1,
+            "text": "RAW Creators is a 3-week educational internship for aspiring digital content creators. Participants receive weekly learning packs, complete creative assignments, and get feedback from RAW content experts. The program is free to join and is intended for learning and experience-building only.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "Please note: The internship start date for each participant depends on the date of application approval. Therefore, some participants may experience a shorter internship duration if they apply late within the official window.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "What You Get",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "&bull;&nbsp;Educational materials and assignment briefs each week",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 2,
+            "text": "&bull;&nbsp;Personal feedback on your content submissions",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 3,
+            "text": "&bull;&nbsp;Certificate of Completion (if all tasks are successfully completed and meet the required quality)",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 4,
+            "text": "&bull;&nbsp;Letter of Recommendation (at the Company’s discretion)",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 5,
+            "text": "&bull;&nbsp;Up to $100 per video based on organic performance",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 6,
+            "text": "&bull;&nbsp;Priority interviews for future paid roles in RAW’s creator campaigns",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Who Can Apply",
+      "texts": {
+        "order": 3,
+        "items": [
+          {
+            "id": 1,
+            "text": "&bull;&nbsp;Must be 18+ years old",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 2,
+            "text": "&bull;&nbsp;Interested in short-form content (TikTok, Reels)",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 3,
+            "text": "&bull;&nbsp;No previous experience, portfolio, or follower count required",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "How It Works",
+
+      "texts": {
+        "order": 4,
+        "items": [
+          {
+            "id": 1,
+            "text": "&bull;&nbsp;Every Tuesday (UTC+0) you’ll receive one learning pack + one assignment",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 2,
+            "text": "&bull;&nbsp;Submit your content by Sunday 18:00 (UTC+0) to proceed to the next week",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 3,
+            "text": "&bull;&nbsp;Submissions and feedback are handled via Email + Google Drive",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 4,
+            "text": "&bull;&nbsp;The Company may adjust the schedule or terms as needed, with updates posted publicly",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Bonuses and Recognition",
+      "texts": {
+        "order": 5,
+        "items": [
+          {
+            "id": 1,
+            "text": "Participants may receive the following bonuses:",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "&bull;&nbsp;$100 for each video with ≥ 100,000 organic views",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 3,
+            "text": "&bull;&nbsp;$50 for ≥ 50,000 views",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 4,
+            "text": "&bull;&nbsp;$30 for ≥ 30,000 views",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Important",
+      "texts": {
+        "order": 6,
+        "items": [
+          {
+            "id": 1,
+            "text": "&bull;&nbsp;The Company reserves the right to withhold bonus payments if video views are found to be manipulated through bots, paid traffic, or other dishonest methods.",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 2,
+            "text": "&bull;&nbsp;All participants are solely responsible for reporting and paying any applicable taxes, fees, or other governmental charges arising from any bonuses or compensation received under this program, in accordance with their local laws and regulations.",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 3,
+            "text": "&bull;&nbsp;Bonuses may also be withheld if the content does not meet the assignment brief or brand guidelines, as determined by the Company.",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 4,
+            "text": "&bull;&nbsp;The Certificate of Completion is not granted automatically. It may be withheld if the quality or integrity of the work is insufficient, even if assignments are submitted on time.",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 5,
+            "text": "&bull;&nbsp;To ensure the proper quality of training, the number of participants in the program is limited. However, individuals who are not offered an internship will be considered for participation in future similar projects.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Legal Terms",
+      "texts": {
+        "order": 7,
+        "items": [
+          {
+            "id": 0,
+            "text": "By participating, you:",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 1,
+            "text": "&bull;&nbsp;Grant Techlead Limited exclusive ownership of all content created during the internship",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 2,
+            "text": "&bull;&nbsp;Allow the Company to use your name, likeness, and content in digital and print media",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 3,
+            "text": "&bull;&nbsp;Acknowledge that the internship is not employment and does not guarantee future compensation",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 4,
+            "text": "&bull;&nbsp;Accept that the program is governed by the laws of Hong Kong, and disputes will be resolved under its jurisdiction",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": "Questions?",
+      "texts": {
+        "order": 8,
+        "items": [
+          {
+            "id": 1,
+            "text": "Email: ambassadors@raw.app",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    }
+  ]
+}

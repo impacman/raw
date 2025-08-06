@@ -1,0 +1,256 @@
+{
+  "banner": {
+    "img": {
+      "path": "partnership",
+      "src": "banner",
+      "alt": "RAW Partnership Banner"
+    },
+    "descr": "RAW IS A GAME-CHANGING DATING APP THAT PROMOTES REAL AND UNFILTERED LOVE THROUGH ITS DUAL CAMERA FEATURE, INSPIRING USERS TO&nbsp;SHOWCASE THEIR TRUE SELVES AND CONNECT WITH OTHERS IN AN AUTHENTIC&nbsp;WAY."
+  },
+  "about": {
+    "title": "_About",
+    "descriptionTop": [
+      {
+        "id": 1,
+        "title": "Not outdated",
+        "texts": [
+          {
+            "id": 1,
+            "text": "Get real with RAW."
+          },
+          {
+            "id": 2,
+            "text": "RAW ENCOURAGES PEOPLE TO SHOW THE TRUE, UNFILTERED VERSION OF THEMSELVES THROUGH DAILY PHOTO UPDATES MADE WITH DUAL CAMERA, REAL&nbsp;-&nbsp;TIME&nbsp;ONLY."
+          },
+          {
+            "id": 3,
+            "text": "&nbsp;",
+            "noMobile": true
+          },
+          {
+            "id": 4,
+            "text": "THIS NEW \"LIVE\" APPROACH ELIMINATES THE NEED FOR OUTDATED CONTENT AND REDUCES THE LIKELIHOOD OF GHOSTING, CREATING A SPACE FOR GENUINE CONNECTIONS AND THE POSSIBILITY OF FINDING YOUR TRUE FIRST LOVE."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "no scammers <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // no catfishing",
+        "texts": [
+          {
+            "id": 1,
+            "text": "RAW USERS ARE FOCUSED ON REAL, PRESENT MOMENTS. TO GET INTO TODAY'S SWIPE GAME, TAKE A PICTURE. THE TIME OF OUR POSTING PROMPT CHANGES EVERY DAY — SO THE USERS NEVER KNOW WHEN AND WHERE THEY'LL BE “CAUGHT,” KEEPING THEM ON THEIR TOES."
+          },
+          {
+            "id": 2,
+            "text": "&nbsp;",
+            "noMobile": true
+          },
+          {
+            "id": 3,
+            "text": "SHOWCASING PEOPLE’S  DAY-TO-DAY ROUTINES AND PASSIONS, RAW’S CAMERA FEATURE ALLOWS YOU TO GAIN INSIGHT INTO THEIR UNIQUE PERSONALITIES AND LIFESTYLES, WHILE ALSO SERVING AS A PROOF THAT ALL THE USERS ARE REAL AND THEIR CONTENT IS UP-TO-DATE."
+          }
+        ]
+      }
+    ],
+    "descriptionBottom": [
+      {
+        "id": 1,
+        "title": "Bye byE ghosting",
+        "texts": [
+          {
+            "id": 1,
+            "text": "NO-GAMES POLICY: OPENNESS AND HONESTY ARE THE KEYS TO GOOD KARMA ON RAW. SO WE CANNOT LET YOU HAVE A BAD ONE—PLEASE DON’T DISAPPEAR ON PEOPLE, BE BRAVE ENOUGH TO FINISH WHAT YOU START."
+          },
+          {
+            "id": 2,
+            "text": "&nbsp;",
+            "noMobile": true
+          },
+          {
+            "id": 3,
+            "text": "Unmatch if there’s no chemistry, but keep replying to your potential crash. And if someone is acting salty, report or block them. Respect your and the feelings of others - otherwise, they won't be able to start a new chat. We limit un-replied chats so that no one on RAW will be left in limbo."
+          },
+          {
+            "id": 4,
+            "text": "&nbsp;",
+            "noMobile": true
+          },
+          {
+            "id": 5,
+            "text": "...AND IF SOMEONE IS ACTING SALTY, YOU CAN (AND SHOULD) ALWAYS REPORT OR BLOCK THEM! "
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "non-toxic",
+        "texts": [
+          {
+            "id": 1,
+            "text": "RESPECT METER: A FEATURE THAT BRINGS TOGETHER RESPECTFUL DATING, FUN, AND INSIGHT. SAY GOODBYE TO TOXIC BEHAVIORS AND HELLO TO LEARNING ABOUT YOUR POTENTIAL CRUSH'S COMMUNICATION STYLE."
+          },
+          {
+            "id": 2,
+            "text": "&nbsp;",
+            "noMobile": true
+          },
+          {
+            "id": 3,
+            "text": "OUR MATCHED USERS CAN RATE EACH OTHER’S BEHAVIORS, PROMOTING SELF -EXPRESSION WITH RESPECT. WHO KNOWS? YOU MIGHT EVEN FIND THAT SOMEONE'S \"RED FLAG\" IS NOT A DEALBREAKER FOR YOU. OPEN UP, LEARN, AND CONNECT ON RAW."
+          }
+        ]
+      }
+    ],
+    "textProfile": "not outdated // not another fake dating app // no scammers // <br /> // no catfishing // bye bye ghosting // non-toxic // your love for real",
+    "previewApp": {
+      "parallaxEls": [
+        {
+          "id": 1,
+          "text": "rizz // easy_unfiltered // open_spontaneous //",
+          "speed": "-4"
+        },
+        {
+          "id": 2,
+          "text": "true_realpeople_love_bold_sincere",
+          "speed": "4"
+        }
+      ],
+      "guidlines": {
+        "text": "tap to get brand guidelines",
+        "link": "brand-assets-raw",
+        "active": true
+      },
+      "vision": {
+        "text": "Media Kit",
+        "link": "media-kit",
+        "active": true
+      },
+      "img": {
+        "path": "partnership",
+        "src": "preview-app",
+        "alt": "RAW Partnership Preview App"
+      }
+    }
+  },
+  "ambassador": {
+    "banner": {
+      "title": "Become a<br /> Raw <br /> Ambassador",
+      "btn": "Tap <br /> to join",
+      "img": {
+        "path": "partnership",
+        "src": "ambassador",
+        "alt": "RAW Partnership To Ambassador Banner"
+      }
+    },
+    "list": [
+      {
+        "id": 1,
+        "text": "Unfiltered."
+      },
+      {
+        "id": 2,
+        "text": "True."
+      },
+      {
+        "id": 3,
+        "text": "Raw.",
+        "mod": true
+      },
+      {
+        "id": 4,
+        "text": "Double"
+      },
+      {
+        "id": 5,
+        "text": "camera."
+      },
+      {
+        "id": 6,
+        "text": "Not"
+      },
+      {
+        "id": 7,
+        "text": "Double"
+      },
+      {
+        "id": 8,
+        "text": "Standard."
+      }
+    ],
+    "download": {
+      "title": {
+        "des": ["WE’RE PROUD", "TO BE FEATURED", "BY"],
+        "mob": ["We’re proud", "to be", "featured by"]
+      },
+      "articles": [
+        {
+          "links": [
+            {
+              "text": "ELLE",
+              "link": "https://www.elle.com/uk/life-and-culture/culture/g31147560/best-dating-apps/"
+            },
+            {
+              "text": "PC MAG",
+              "link": "https://uk.pcmag.com/dating/150189/raw"
+            },
+            {
+              "text": "Forbes",
+              "link": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/09/13/how-brands-are-embracing-the-realness-movement/?sh=6a1accb664b8"
+            },
+            {
+              "text": "Entrepreneur",
+              "link": "https://www.entrepreneur.com/science-technology/how-anti-instagram-apps-are-changing-social-media/453915"
+            },
+            {
+              "text": "SocialMediaToday",
+              "link": "https://www.socialmediatoday.com/press-release/20231218-some-many-like-it-raw-getting-real-with-the-dating-app-taking-1-spot-o/"
+            },
+            {
+              "text": "Body and Soul",
+              "link": "https://www.bodyandsoul.com.au/relationships/this-new-app-could-be-the-cure-for-your-dating-burnout/news-story/3c2ddc61f1365f376e116acb10fd60f9?amp&nk=eb76920685634b759a7af305b3634d2e-1691393665"
+            },
+            {
+              "text": "Yahoo",
+              "link": "https://finance.yahoo.com/news/raw-dating-app-launches-dual-081900851.html"
+            },
+            {
+              "text": "Marketing Dive",
+              "link": "https://www.marketingdive.com/press-release/20231011-raw-dating-app-solves-all-your-problems-with-two-game-changing-features/"
+            },
+            {
+              "text": "DatingNews",
+              "link": "https://www.datingnews.com/daters-pulse/10-best-up-and-coming-dating-apps-2024/"
+            }
+          ]
+        },
+        {
+          "links": []
+        }
+      ],
+      "bg": {
+        "path": "partnership",
+        "src": "media",
+        "alt": "RAW Media"
+      },
+      "info": {
+        "title": [
+          {
+            "text": {
+              "des": "Our founder's amazing",
+              "mob": "Our founder's"
+            }
+          },
+          {
+            "text": {
+              "des": "Medium blog",
+              "mob": "amazing Medium blog"
+            },
+            "link": "https://medium.com/@marina_raw"
+          }
+        ],
+        "descr": "*she made us say that, but<br> it's honestly good"
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "bg": {
+    "path": "bg",
+    "src": "dark",
+    "alt": "RAW Dark Bg Contact Form"
+  },
+  "data": {
+    "feeling": {
+      "text": "Not feeling the form? Then shoot us&nbsp;an&nbsp;email at&nbsp;",
+      "email": "hello@raw.app"
+    },
+    "form": {
+      "sheetID": 0,
+      "inputValidation": ["name", "email", "text"],
+      "fields": [
+        {
+          "id": "name",
+          "label": "Your name",
+          "placeholder": "Don’t be shy, write it here",
+          "name": "name"
+        },
+        {
+          "id": "email",
+          "label": "Your email",
+          "placeholder": "Leave it here for a quick reply",
+          "name": "email"
+        },
+        {
+          "id": "phone",
+          "label": "Your phone number (optional)",
+          "placeholder": "Relax, we’re not gonna call you",
+          "name": "phone"
+        },
+        {
+          "id": "device",
+          "label": "Your device and software version (optional)",
+          "placeholder": "Mention here if you’re facing tech woes",
+          "name": "device"
+        },
+        {
+          "id": "text",
+          "label": "YOUR MESSAGE",
+          "placeholder": "Tell us what's on your mind",
+          "name": "text",
+          "message": true
+        }
+      ],
+      "submit": {
+        "type": "submit",
+        "text": "Send"
+      }
+    },
+    "doneTexts": [
+      {
+        "id": 1,
+        "text": "Thank you for your RAWmessage."
+      },
+      {
+        "id": 2,
+        "text": "Our team will check it and get back to you."
+      },
+      {
+        "id": 3,
+        "text": "&nbsp;"
+      },
+      {
+        "id": 4,
+        "text": "Stay tuned. true. raw"
+      }
+    ]
+  }
+}

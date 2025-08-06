@@ -1,0 +1,356 @@
+{
+  "theme": "white",
+  "numbering": false,
+  "title": "OFFICIAL RULES",
+  "description": [
+    {
+      "id": 1,
+      "text": "RAW APP SWEEPSTAKES DROPS",
+      "bold": true,
+      "inline": false,
+      "mb": true
+    },
+    {
+      "id": 2,
+      "text": "NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE OF ANY KIND WILL NOT INCREASE YOUR CHANCES OF WINNING. RAW APP SWEEPSTAKES DROPS (THE “SWEEPSTAKES”) WILL BE HELD AT MULTIPLE TIMES DURING 2025. EACH SWEEPSTAKES DROP PERIOD (“PROMOTIONAL PERIOD”) WILL BE ANNOUNCED IN THE RAW APP (VIA SWIPE CARDS) AND ON OFFICIAL SOCIAL MEDIA CHANNELS.",
+      "bold": false,
+      "inline": false,
+      "mb": true
+    }
+  ],
+  "blocks": [
+    {
+      "id": 1,
+      "title": "ELIGIBILITY",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "THE SWEEPSTAKES IS OPEN ONLY TO LEGAL RESIDENTS OF THE STATES OF COLORADO, CALIFORNIA AND TEXAS WHO ARE 21 YEARS OF AGE OR OF THE AGE OF MAJORITY IN THEIR STATE OF RESIDENCE, WHICHEVER IS OLDER, WITH A VALID DRIVER’S LICENSE AT TIME OF ENTRY (“ENTRANT”). ALL OTHERS ARE INELIGIBLE TO ENTER AND WILL BE DISQUALIFIED. VOID WHERE PROHIBITED OR RESTRICTED.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "Employees of TechLead LTD (“Sponsor”), all their respective parents, affiliates, subsidiaries, and their advertising and promotion agencies and the members of their immediate families (spouses and parents, siblings, children and their spouses and in-laws) and persons living in the same household with such individuals (whether related or not) are not eligible to enter or win.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "AGREEMENT TO THE OFFICIAL RULES",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "By participating, Entrants agree to be bound by these Official Rules and the decisions of the Sponsor, which are binding and final on all matters relating to this Sweepstakes. This Sweepstakes is subject to all applicable federal, state, and local laws. Winning a prize is contingent upon fulfilling all requirements set forth herein.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "TO ENTER",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "During the Promotional Period, entrants must download the RAW app from the App Store, Google Play, or via the official website at https://www.raw.app/download. During the Promotional Period, entrants must:",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "Register and authorize an account in the App;",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 3,
+            "text": "Locate the prize drop card inside the App;",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 4,
+            "text": "Swipe the card to the right to confirm participation;",
+            "bold": false,
+            "mb": false
+          },
+          {
+            "id": 5,
+            "text": "Event entries and App entries are hereinafter referred to as “Entry” or “Entries.”;",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 6,
+            "text": "LIMIT: ONE (1) ENTRY PER PERSON REGARDLESS OF METHOD OF ENTRY. Each Entrant must use a unique phone number; shared numbers are not allowed. In the event of a dispute, entries will be deemed made by the authorized account holder of the phone number provided during registration in the RAW App. The authorized account holder is the natural person assigned to the phone number by a telecommunications provider.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 7,
+            "text": "Entrants are responsible for all charges imposed by their mobile service provider, including any applicable taxes on such services, in connection with downloading and registering in the RAW App. The Sponsor is not responsible for lost, late, incomplete, invalid, unintelligible, unreadable, or misdirected registrations, which will be disqualified. Only phone numbers registered in the United States will be accepted by the Sponsor. Use of any automated system to participate is prohibited and will result in disqualification.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 8,
+            "text": "All entries become the property of the Sponsor and will not be acknowledged or returned. Please also see the 'Entrant’s Personal Information' section below in these Official Rules.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "WINNER SELECTION",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "The Sponsor will conduct a random drawing for each drop from all eligible entries received during the respective Promotional Period. Winners will be notified via the App and/or phone and must respond within five (5) business days of notification. Failure to do so may result in disqualification and selection of an alternate winner.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "Potential winners will be required to complete and return an affidavit of eligibility, liability release, and, where not prohibited by law, a publicity release form ('affidavit/release') within five (5) business days of receipt. The Sponsor will make at least three (3) attempts to contact the potential winner within a forty-eight (48) hour period.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "If the Potential winner's notification is rejected, returned, or deemed undeliverable or a Potential winner fails to execute and return the affidavit/release within the specified time or if they are otherwise ineligible to receive the Prize, that Potential winner will be deemed ineligible. In such an event, the Sponsor will select an alternate Potential winner through a random drawing from among all remaining eligible entries. This process will continue until a qualified winner is verified or three (3) alternate Potential winners have been selected and verified, whichever occurs first. If the Sponsor is unable to verify the Winner after three (3) alternate drawings, the Prize may remain unawarded.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "PRIZES",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Each drop will feature multiple Prizes, which will be determined and announced by the Sponsor before each drop. The details of the Prizes will be available in the RAW App (via swipe cards) and on official social media channels.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "The exact Prizes for each drop will be announced in advance through the RAW App and official social media channels.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "The Approximate Retail Value (ARV) of each Prize is determined at the time of each drop and may be subject to change. Winners are responsible for the payment of all applicable taxes and fees. The actual market value of the Prize may vary, and the Sponsor is not responsible for compensating any difference between the ARV and the actual value of the Prize.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "PRIZE RESTRICTIONS",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Other than the manufacturer’s limited warranty, the Sponsor makes no warranties, representations, or guarantees, express or implied, in fact or in law, regarding any Prize, including but not limited to its quality, fitness for a particular purpose, or condition. The Winner is solely responsible for any setup, activation, or additional costs associated with the use of the Prize.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "Each Winner will receive instructions on how to claim their Prize, which must be collected within thirty (30) days of notification. If a Prize remains unclaimed within a reasonable time, as determined by the Sponsor in its sole discretion, it will be forfeited, and, if time permits, an alternate Winner may be selected from the remaining eligible entries.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "All details of each Prize will be determined by the Sponsor in its sole discretion. The Sponsor reserves the right to substitute any Prize (or portion thereof) with a prize of comparable or greater value. The Winner is solely responsible for all taxes, fees, and any other costs associated with acceptance and use of the Prize, including but not limited to sales tax and any costs related to activation or usage. If required by law, the Sponsor will file an IRS Form 1099 for the fair market value of the Prize awarded.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 4,
+            "text": "Prizes are non-transferable and cannot be assigned, substituted, or redeemed for cash. Any depiction of a Prize in advertising or promotional materials may differ from the actual Prize received. The Sponsor is not responsible for any discrepancies between advertised and actual Prizes.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 5,
+            "text": "At the Sponsor’s sole discretion, a Winner may be required to forfeit the Prize and an alternate Winner may be selected if the originally selected Winner: (i) declines or cannot accept, receive, or use the Prize for any reason, or (ii) fails to comply with these Official Rules.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "PUBLICITY",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Except where prohibited by law, the acceptance of the Prize constitutes permission for the Sponsor to use the Winner’s name, hometown, likeness, statements and other personally identifiable information for promotional, advertising and marketing purposes in any media throughout the world without additional compensation, prize, incentive, consideration, consent or review; and upon request, the Prize Winner must provide written consent to such use.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": "RELEASE",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "By participating (a) Entrants release the Sponsor and their respective subsidiaries, affiliates, limited liability companies, suppliers, distributors, advertising/promotion agencies, attorneys, and prize suppliers, and each of their respective parent companies and each such company’s officers, shareholders, directors, attorneys, members, employees, licensors, dealerships, and agents (collectively the “Released Parties”), from any and all liability for any claims, costs, injuries, losses, or damages, of any kind caused by their participation, including the unauthorized or illegal access to personally identifiable or sensitive information or the acceptance, possession, use, or misuse of the Prize; (b) Entrants, by participating, agree that Released Parties will have no liability whatsoever, and shall be held harmless by Entrants against any liability, for any injuries, losses or damages of any kind, including, but not limited to, death or destruction of property resulting in whole or in part, directly or indirectly, from acceptance, possession, misuse or use of the Prize (including any travel or activity associated thereto) or participation in this Sweepstakes; and (c) acknowledge that said parties have neither made nor are in any manner responsible or liable for any warranty representation or guarantee, expressed or implied, in fact or in law, relative to a prize, including, but not limited to, the Prize quality or availability.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": "LIMITATIONS OF LIABILITY",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Neither Released Parties nor any service providers are responsible for incorrect or inaccurate transcription of Entry information, or for any human or other error, technical malfunctions, lost/delayed data or voice transmission, omission, interruption, deletion, defect, line failures of any telephone network, computer equipment, software, or any other error or malfunction, or late, lost or misdirected mail, or any injury or damage related to or resulting from participation in this Sweepstakes. Neither Released Parties nor any service providers are responsible for typographical or other errors in the printing of Sweepstakes materials, the administration of the Sweepstakes, or the announcement of the Prize Winner, including any such error that may give an erroneous indication that a prize has been won. CAUTION: ANY ATTEMPT BY AN ENTRANT OR ANY OTHER INDIVIDUAL TO DELIBERATELY DAMAGE ANY WEBSITE, APP TAMPER WITH THE ENTRY PROCESS OR OTHERWISE UNDERMINE THE LEGITIMATE OPERATION OF THE SWEEPSTAKES MAY BE A VIOLATION OF CRIMINAL AND CIVIL LAWS, AND SHOULD SUCH AN ATTEMPT BE MADE, SPONSOR RESERVES THE RIGHT TO COOPERATE IN THE PROSECUTION OF ANY SUCH INDIVIDUAL(S) AND TO PURSUE ALL REMEDIES TO THE FULLEST EXTENT PERMITTED BY LAW.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "title": "GENERAL CONDITIONS",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "The Sponsor’s failure to enforce any provision of these Official Rules shall not constitute a waiver of that provision. If, for any reason, the Sweepstakes cannot be conducted as planned, or if the integrity and/or feasibility of the Sweepstakes is compromised by any event, including but not limited to infection by computer virus, bugs, tampering, unauthorized intervention, cybersecurity incidents, fraud, actions of Entrants, technical failures, supply chain disruptions, fire, flood, epidemic, pandemic, public health crisis (e.g., COVID-19 or similar), earthquake, explosion, labor dispute or strike, act of God or public enemy, equipment failure, riot or civil disturbance, war (declared or undeclared), terrorist threat or activity, or any federal, state, or local government law, order, or regulation, court order, or any other cause beyond the Sponsor’s reasonable control (each a “Force Majeure” event), the Sponsor reserves the right, in its sole discretion, to modify, suspend, cancel, or terminate the Sweepstakes without further obligation.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "In such an event, the Sponsor may, at its sole discretion, modify available prizes, extend relevant deadlines, or substitute a prize of equal or greater value. Any modifications or termination will be announced via RAW App. The Sponsor’s determination of an appropriate remedy shall be final and binding.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "The Sponsor reserves the right to disqualify any individual found to be tampering with the entry process or operation of the Sweepstakes, or acting in violation of these Official Rules. If any provision of these Official Rules is deemed invalid or unenforceable, all remaining provisions will continue in full force and effect.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "title": "GOVERNING LAW/JURISDICTION/DISPUTE RESOLUTION",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Entrants agree that (a) any and all disputes, claims and causes of action arising out of, or connected with, the Sweepstakes or the Prize awarded shall be resolved individually, without resort to any form of class action, and exclusively by the federal, state and local courts of Texas (b) any and all claims, judgments and awards shall be limited to actual out-of-pocket costs incurred, including costs associated with entering this Sweepstakes but in no event attorneys’ fees; and (c) under no circumstances will Entrant be permitted to obtain awards for, and Entrant hereby waives all rights to, claim punitive, incidental and consequential damages and any other damages, other than out-of-pocket expenses, and any and all rights to have damages multiplied or otherwise increased. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATIONS OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE MAY NOT APPLY TO YOU. All issues and questions concerning the construction, validity, interpretation and enforceability of these Official Rules, Entrant's rights and obligations, or the rights and obligations of the Sponsor in connection with the Sweepstakes, shall be governed by, and construed in accordance with, the laws of State of Texas, without giving effect to any choice of law or conflict of law rules (whether of the State of Texas or any other jurisdiction), which would cause the application of the laws of any jurisdiction other than State of Texas.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "title": "LANGUAGE",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Sponsor, in its sole discretion, may reproduce these Official Rules in multiple languages. The English version of these Official Rules shall prevail and govern the Sweepstakes in all matters whatsoever.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "title": "WINNER’S NAME",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "The Winner’s list will be available after February ___, 2025 and may be obtained by sending a self- addressed stamped envelope to: Winner’s Name, _____________________, for receipt no later than _______________.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "title": "ENTRANT'S PERSONAL INFORMATION",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Any personally identifiable information collected during an Entrant's participation in this Sweepstakes will be collected by the Sponsor and used by the Sponsor, its affiliates, agents and marketers for purposes of the proper administration and fulfillment of the Sweepstakes as described in these Official Rules and in accordance with Sponsor's Privacy Statement as stated at https://www.raw.app/privacy-policy. By entering the Sweepstakes, you agree to all the terms and conditions of the Sponsor’s Privacy Statement.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "title": "SPONSOR",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "TechLead LTD.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    }
+  ]
+}

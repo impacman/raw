@@ -1,0 +1,344 @@
+{
+  "theme": "white",
+  "numbering": false,
+  "title": "OFFICIAL RULES",
+  "description": [
+    {
+      "id": 1,
+      "text": "The RAW selfie challenge Skill Contest",
+      "bold": true,
+      "inline": false,
+      "mb": true
+    },
+    {
+      "id": 2,
+      "text": "March 21, 2025",
+      "bold": false,
+      "inline": false,
+      "mb": true
+    }
+  ],
+  "blocks": [
+    {
+      "id": 1,
+      "title": "1. SPONSOR",
+      "texts": {
+        "order": 1,
+        "items": [
+          {
+            "id": 1,
+            "text": "1.1 This contest (\"Contest\") is operated by Techlead Limited (the \"Sponsor\").",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "1.2 By entering, you agree to be bound by these Official Rules.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "2. ELIGIBILITY",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "2.1 The Contest is open only to legal residents of the United States who are at least 18 years old at the time of entry.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "2.2 To receive any monetary prize, the participant must have valid access to PayPal or a U.S. bank account.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "2.3 The Contest is void where prohibited by law.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "3. CONTEST PERIOD",
+      "texts": {
+        "order": 3,
+        "items": [
+          {
+            "id": 1,
+            "text": "3.1 The Contest begins on 28.03.2025 and ends on 28.04.2025.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "3.2 The Sponsor reserves the right to modify or terminate the Contest at any time, with notice to participants via an in-app notification or other reasonable means.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "4. HOW TO ENTER",
+      "texts": {
+        "order": 4,
+        "items": [
+          {
+            "id": 1,
+            "text": "4.1 Entry Requirement:",
+            "bold": true,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "4.1.1 Participants must register in the Raw App (https://www.raw.app/) and have an active account.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "4.1.2 Participants must accept the Contest Terms (https://www.raw.app/terms-conditions) within the Raw App, and accept Raw Terms and Conditions (https://www.raw.app/terms-conditions).",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 4,
+            "text": "4.1.3 Participants must create a new RAW photo using the camera function in the Raw App. Any photo merely uploaded to the user's profile (i.e., not taken via the in-app camera) will not be eligible for entry.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 5,
+            "text": "4.1.4 Each photo submission must pass moderation and comply with Raw App's Community Guidelines (https://www.raw.app/guidelines). Photos that violate these guidelines will be disqualified at the Sponsor's discretion.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 6,
+            "text": "4.1.5 At least one of the two photos must clearly show the participant's face. The photo must not be too dark, blurred, or otherwise obscured. The face must be clearly visible.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 7,
+            "text": "4.2 Limitations: Any entry that violates the Sponsor's platform rules or includes content deemed inappropriate, illegal, offensive, or otherwise unsuitable will be disqualified at the Sponsor's discretion.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 8,
+            "text": "4.3 Additional Tasks: The Sponsor may announce special daily or periodic tasks (e.g., \"post your photo on social media,\" \"reach 50 likes\") via banners or notifications in the App. To qualify for any special criteria, participants must follow the instructions provided at that time.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "5. SELECTION OF WINNERS & CRITERIA",
+      "texts": {
+        "order": 5,
+        "items": [
+          {
+            "id": 1,
+            "text": "5.1 This Contest is based on skill and creativity. The Sponsor will evaluate submitted photos according to subjective criteria, which may include originality, composition, aesthetic appeal, and any other factors that the Sponsor determines, in its sole discretion, are relevant.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "5.2 At the conclusion of the Contest Period (or on dates announced by the Sponsor), the Sponsor will select the photo(s) that it deems best according to these criteria. The Sponsor's decision is final and binding.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "6. PRIZE",
+      "texts": {
+        "order": 6,
+        "items": [
+          {
+            "id": 1,
+            "text": "6.1 Prize: The prize is a monetary award in an amount determined by the Sponsor (the exact amount may vary; specific details will be announced in-app or on the Sponsor's website).",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "6.2 Payment Method: The Sponsor will deliver the prize to the winner(s) via PayPal or a U.S. bank account within sixty (60) days following the official winner announcement, provided the winner remains eligible and has not violated any rules.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "6.3 The Sponsor reserves the right, at its sole discretion, to modify the prize amount, provided that the change is announced prior to winner selection.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "7. WINNER NOTIFICATION & REQUIREMENTS",
+      "texts": {
+        "order": 7,
+        "items": [
+          {
+            "id": 1,
+            "text": "7.1 The potential winner(s) will be notified by email, in-app message, or other means within a reasonable time after selection. The winner(s) must respond as instructed by the Sponsor, which may include providing payment details (PayPal or bank account information).",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "7.2 If the potential winner fails to respond within the stated time, is found ineligible, or is non-compliant with these Official Rules, the Sponsor may disqualify that participant and, at its discretion, select an alternate winner.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": "8. DISQUALIFICATION",
+      "texts": {
+        "order": 8,
+        "items": [
+          {
+            "id": 1,
+            "text": "8.1 If at any time before prize distribution the winner is found to have violated the Sponsor's platform rules or these Official Rules, the Sponsor reserves the right to revoke the winner's status and rescind the prize.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "8.2 Deleting the submitted photo at any point after selection (and before the prize is delivered) will also be considered a violation of these rules and may result in disqualification.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": "9. GRANT OF RIGHTS / OWNERSHIP",
+      "texts": {
+        "order": 9,
+        "items": [
+          {
+            "id": 1,
+            "text": "9.1 By submitting a photo, you represent and warrant that you own all rights to the photo and that it does not infringe upon or violate any third-party rights.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "9.2 Transfer of Rights: By entering, you irrevocably assign and transfer to the Sponsor all rights, title, and interest in and to your photo, including any copyrights and rights of publicity. The Sponsor may use, reproduce, distribute, display, or adapt the photo in perpetuity for any promotional, advertising, or other lawful purposes worldwide, without further notice or compensation (beyond the stated prize, if applicable).",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "9.3 If complete transfer of rights is not legally permissible in any jurisdiction, you instead grant the Sponsor a perpetual, worldwide, royalty-free, sublicensable license to use, reproduce, distribute, and display the photo for the above-stated purposes.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "title": "10. GENERAL CONDITIONS",
+      "texts": {
+        "order": 10,
+        "items": [
+          {
+            "id": 1,
+            "text": "10.1 No Purchase Necessary: Participants are not required to pay any fee or purchase the Sponsor's products or services to enter or win.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "10.2 Non-Discrimination: The Sponsor does not discriminate on the basis of race, color, religion, gender, national origin, age, sexual orientation, disability, or any other protected category.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "10.3 Limitations of Liability: By entering, participants agree to release and hold harmless the Sponsor from and against any claim or cause of action arising out of participation in the Contest or receipt or use of any prize.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 4,
+            "text": "10.4 Governing Law: These Rules are governed by and construed in accordance with the laws of the State of California, without giving effect to its conflict of law principles. Any disputes will be resolved in the federal or state courts located in [your county], California.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 5,
+            "text": "10.5 Right to Modify or Cancel: The Sponsor reserves the right to modify, suspend, or cancel the Contest at any time for any reason, including but not limited to unforeseen technical, legal, or security issues.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 6,
+            "text": "10.6 Tax obligations. All federal, state, and local taxes (including any applicable fees or withholdings) arising from the receipt of a prize are the sole responsibility of the winner. The Sponsor does not cover or assume liability for the winner's tax obligations. The winner must comply with all applicable tax laws and regulations in connection with receiving the prize. It is recommended that the winner consult a qualified tax professional for any questions related to potential tax liabilities.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "title": "11. CONTACT INFORMATION",
+      "texts": {
+        "order": 11,
+        "items": [
+          {
+            "id": 1,
+            "text": "11.1 For any questions regarding the Contest or these Official Rules, you may contact the Sponsor at:",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "Techlead Limited",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "finance@techleadltd.com",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 4,
+            "text": "By participating in this Contest, you acknowledge that you have read and agree to these Official Rules.",
+            "bold": true,
+            "mb": false
+          }
+        ]
+      }
+    }
+  ]
+}

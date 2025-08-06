@@ -1,0 +1,354 @@
+{
+  "theme": "black",
+  "numbering": false,
+  "title": "Privacy Policy",
+  "description": [
+    {
+      "id": 1,
+      "text": "RAW APP (\"RAW\") or (\"we\") prioritize data security and confidentiality. This Privacy Policy provides you with information about how we process your information when you visit our website, use our mobile applications and communicate with us via social media.",
+      "bold": false,
+      "inline": false
+    },
+    {
+      "id": 2,
+      "text": "This Privacy Policy is subject to change on an ongoing basis. Depending on the changes, we may provide you with a supplemental policy. We encourage you to review our Privacy Policy every time you use our Services to stay up to date with our information practices and how you can help us protect your privacy.",
+      "bold": false,
+      "inline": false
+    }
+  ],
+  "blocks": [
+    {
+      "id": 1,
+      "title": "Collection, purpose and legal basis",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 2,
+            "tablet": [
+              {
+                "id": "row-1",
+                "col": [
+                  {
+                    "id": 1,
+                    "text": "Purpose"
+                  },
+                  {
+                    "id": 2,
+                    "text": "Data"
+                  },
+                  {
+                    "id": 3,
+                    "text": "Source"
+                  },
+                  {
+                    "id": 4,
+                    "text": "Legal basis"
+                  }
+                ]
+              },
+              {
+                "id": "row-2",
+                "col": [
+                  {
+                    "id": 1,
+                    "text": "To send you marketing information about our events, offers and services"
+                  },
+                  {
+                    "id": 2,
+                    "text": "Name and email"
+                  },
+                  {
+                    "id": 3,
+                    "text": "You provide us"
+                  },
+                  {
+                    "id": 4,
+                    "text": "Legitimate interest - to facilitate networking opportunities "
+                  }
+                ]
+              },
+              {
+                "id": "row-3",
+                "col": [
+                  {
+                    "id": 1,
+                    "text": "Proper delivery of products and services"
+                  },
+                  {
+                    "id": 2,
+                    "text": "Your contact information"
+                  },
+                  {
+                    "id": 3,
+                    "text": "When you use our customer service, send us emails, etc."
+                  },
+                  {
+                    "id": 4,
+                    "text": "Legitimate interest - our legitimate interest is to respond to your requests to ensure quality user service and fix problems"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "The sharing of personal data ",
+      "lists": [
+        {
+          "id": 1,
+          "mb": false,
+          "order": 2,
+          "descriptions": [
+            {
+              "id": 1,
+              "text": "We may share the personal data we collect with",
+              "order": 1
+            },
+            {
+              "id": 2,
+              "text": "We carry out due diligence on all Service Providers we engage to ensure they have adequate data protection and information security measures.  We provide the personal data necessary for the service they are providing. Our suppliers are also subject to extensive obligations under our contractual arrangements, including a strict data retention policy.",
+              "mb": true,
+              "mt": true,
+              "order": 3
+            },
+            {
+              "id": 3,
+              "text": "We may share personal data internally within our group of companies or with third parties for purposes described in this Privacy Notice. We utilise standard contract clauses approved by the European Commission to legitimise data transfers from the EEA to the United States and other countries. ",
+              "mb": true,
+              "order": 4
+            },
+            {
+              "id": 4,
+              "text": "Data collected by Advertising Partners and other Service Providers may also be held outside the European Economic Area. We ensure that the data is adequately protected by ensuring that valid legal mechanisms are in place. If you want more information about the nature of the safeguards we have in place, please email <a href=\"mailto:support@raw.app\">support@raw.app</a>.",
+              "order": 5
+            }
+          ],
+          "list": {
+            "order": 2,
+            "items": [
+              {
+                "id": 1,
+                "text": "Affiliates - RAW considers the safety and security of users a top priority. If you were banned from another Group service, your information could be shared with us to allow us to take necessary actions, including closing your account or preventing you from creating an account on our services."
+              },
+              {
+                "id": 2,
+                "text": "Marketing and Advertising Partners;"
+              },
+              {
+                "id": 3,
+                "text": "Systems and IT solutions providers, for example, Grafana, Elastic, and AppsFlyer."
+              },
+              {
+                "id": 4,
+                "text": "Information Security - the service provided by Cloudflare is subject to Cloudflare's Privacy Policy."
+              },
+              {
+                "id": 5,
+                "text": "Integration Platform - the service provided by Sentry is subject to Sentry's Privacy Policy;"
+              },
+              {
+                "id": 6,
+                "text": "Hosting providers;"
+              },
+              {
+                "id": 7,
+                "text": "Payment processors;"
+              },
+              {
+                "id": 8,
+                "text": "Fraud prevention partners;"
+              },
+              {
+                "id": 9,
+                "text": "Service Providers - we engage certain trusted third parties to perform functions and provide services."
+              },
+              {
+                "id": 10,
+                "text": "Authentication services - to allow customers to authenticate their account- the service provided by Twilio is subject to Twilio Privacy Notice."
+              },
+              {
+                "id": 11,
+                "text": "Lawyers."
+              },
+              {
+                "id": 12,
+                "text": "Under certain circumstances, we may be required to disclose your personal data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency), or it is necessary to detect, prevent and address fraud and other illegal activity, to protect ourselves, you and others, including as part of investigations."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Retention time and deletion of personal data",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Personal data are retained if you are a contract or consent duration party. In addition, we will retain and use your information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies."
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Data Subject rights",
+      "lists": [
+        {
+          "id": 1,
+          "mb": false,
+          "order": 2,
+          "descriptions": [
+            {
+              "id": 1,
+              "text": "Under Data protection laws, you have the following rights:",
+              "order": 1
+            }
+          ],
+          "list": {
+            "order": 2,
+            "items": [
+              {
+                "id": 1,
+                "text": "Right to be informed: what personal data an organisation processes and why."
+              },
+              {
+                "id": 2,
+                "text": "Right of access: you can request a copy of your data."
+              },
+              {
+                "id": 3,
+                "text": "Right of rectification: if the data held is inaccurate, you have the right to correct it. Through My profile -> Edit. Please email support@raw.app if you want to edit your Name and Date of Birth. "
+              },
+              {
+                "id": 4,
+                "text": "Right to erasure: You can delete your data in certain circumstances."
+              },
+              {
+                "id": 5,
+                "text": "Right to restrict processing: in limited circumstances, you have the right to request that processing is stopped but the data retained."
+              },
+              {
+                "id": 6,
+                "text": "Right to data portability: you can request a copy of your data in a machine-readable form that can be transferred to another provider."
+              },
+              {
+                "id": 7,
+                "text": "Right to object: in certain circumstances (including where data is processed based on legitimate interests or for the purposes of marketing), you may object to that processing."
+              },
+              {
+                "id": 8,
+                "text": "Rights related to automated decision-making, including profiling: there are several rights in this area where processing carried out solely automatically results in a decision that has legal or significant effects on the individual. In these circumstances, your rights include the right to ensure that there is human intervention in the decision-making process."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Promotional messages",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "When you register, you enter your phone number. Unless you opt-out, we will use this phone number to send you different notifications, some of which may qualify as promotional. We send you information about the promotions and offers we have available by direct marketing or other modes of communication - if you’ve signed up for our communications or otherwise told us it’s ok. You can click the unsubscribe link or email your request to us at support@raw.app or by changing the settings in your profile.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Right to lodge a complaint ",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "If You feel that we did not solve Your problem You have the right to lodge a complaint with a supervisory authority. The Data Protection Authority may decide to investigate the matter further. RAW will always fully cooperate with any regulatory request.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Changes to this Privacy Policy",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "We reserve the right to replace, modify or amend this Privacy Policy at our own discretion. Changes to this Privacy Policy are effective when posted on this page. Please note the latest modification date at the bottom of the Privacy Policy.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": "Data controller and contact information",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Techlead Limited, ",
+            "bold": true,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "located at Wan Chai, Wanchai Road 165-171, Lucky Centre, Room 1602, Hong Kong Island, Hong Kong.",
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "Data Controller has appointed an internal Data Protection Officer to contact if you have questions about this notice or data processing practices. Please direct your query to the data protection officer if you want to exercise your privacy rights. ",
+            "mb": true
+          },
+          {
+            "id": 4,
+            "text": "Data Protection Officer’s contact information is as follows: support@raw.app. ",
+            "mb": true
+          },
+          {
+            "id": 5,
+            "text": "Our EU representative is",
+            "bold": true,
+            "mb": true
+          },
+          {
+            "id": 6,
+            "text": "Reilin   Technologies   Limited, located at Aglantzias, 62, EKATERINI NICOSIA BUSINESS CENTER, Flat/Office 109, Aglantzia, 2108, Nicosia, Cyprus.",
+            "mb": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": "",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Last updated April 28th, 2023"
+          }
+        ]
+      }
+    }
+  ]
+}

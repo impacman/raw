@@ -1,0 +1,73 @@
+{
+  "navigation": [
+    {
+      "id": 1,
+      "href": "/",
+      "name": "raw"
+    },
+    {
+      "id": 2,
+      "href": "/download",
+      "name": "download"
+    }
+  ],
+  "title": [
+    {
+      "id": 1,
+      "text": "Most"
+    },
+    {
+      "id": 2,
+      "text": "Wanted"
+    },
+    {
+      "id": 3,
+      "text": "(crush.)",
+      "min": true
+    }
+  ],
+  "descr": [
+    {
+      "id": 1,
+      "texts": [
+        {
+          "id": 1,
+          "text": "Everyone has a secret crush."
+        },
+        {
+          "id": 2,
+          "text": "Give us social media handle or email of your love&nbsp;interest and we’ll send them an invite to join RAW.&nbsp;We can even include an anonymous message&nbsp;from&nbsp;you."
+        },
+        {
+          "id": 3,
+          "text": "We’ll notify you if they sign up."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "transform": true,
+      "texts": [
+        {
+          "id": 1,
+          "text": "So what are you waiting for? "
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "noMobile": true,
+      "texts": [
+        {
+          "id": 1,
+          "text": "Take a chance.",
+          "big": true
+        }
+      ]
+    }
+  ],
+  "openMobileForm": {
+    "href": "#wanted-form",
+    "name": "Take a chance"
+  }
+}

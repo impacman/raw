@@ -1,0 +1,132 @@
+{
+  "main": {
+    "title": "Become a RAW creator",
+    "descr": [
+      {
+        "id": 1,
+        "text": "Drop your details. We'll drop the knowledge"
+      },
+      {
+        "id": 2,
+        "text": "FYI: spots are limited (wish we could take everyone). You'll be noted for"
+      },
+      {
+        "id": 3,
+        "text": "future openings. See <a href='/terms-conditions'>terms</a> for info"
+      }
+    ],
+    "btn": "Apply for free"
+  },
+  "steps": [
+    {
+      "id": "callYou",
+      "label": "What should we call you?",
+      "inputs": [
+        {
+          "id": 1,
+          "type": "text",
+          "placeholder": "Type your answer here...",
+          "name": "callYou"
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "ok"
+      }
+    },
+    {
+      "id": "lastName",
+      "label": "What's your last name?",
+      "inputs": [
+        {
+          "id": 1,
+          "type": "text",
+          "placeholder": "Type your answer here...",
+          "name": "lastName"
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "ok"
+      }
+    },
+    {
+      "id": "college",
+      "label": "What college are you enrolled in?",
+      "inputs": [
+        {
+          "id": 1,
+          "type": "text",
+          "placeholder": "Type your answer here...",
+          "name": "college"
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "ok"
+      }
+    },
+    {
+      "id": "gender",
+      "label": "Please select your gender",
+      "inputs": [
+        {
+          "id": 1,
+          "type": "radio",
+          "placeholder": {
+            "text": "Female",
+            "id": "female"
+          },
+          "name": "gender"
+        },
+        {
+          "id": 2,
+          "type": "radio",
+          "placeholder": {
+            "text": "Male",
+            "id": "male"
+          },
+          "name": "gender"
+        },
+        {
+          "id": 3,
+          "type": "radio",
+          "placeholder": {
+            "text": "Non-binary",
+            "id": "non-binary"
+          },
+          "name": "gender"
+        },
+        {
+          "id": 4,
+          "type": "radio",
+          "placeholder": {
+            "text": "Prefer not to say",
+            "id": "prefer-not-to-say"
+          },
+          "name": "gender"
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "ok"
+      }
+    },
+    {
+      "id": "socialMediaLinks",
+      "label": "Add your social media links",
+      "inputs": [
+        {
+          "id": 1,
+          "type": "text",
+          "placeholder": "Type your answer here...",
+          "name": "socialMediaLinks"
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "ok"
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "theme": "violet",
+  "numbering": false,
+  "title": "Guidelines",
+  "description": [
+    {
+      "id": 1,
+      "text": "Hi, welcome to RAW Guidelines (which are not raw, actually, well-done). We want to make sure that you have an awesome and safe experience here, which is why we've come up with some kick-ass guidelines to follow.",
+      "bold": false,
+      "inline": false,
+      "mb": false
+    },
+    {
+      "id": 2,
+      "text": "If you ignore our RAW Guidelines, you might find yourself banned faster than you can say \"Swipe right!\". Our mods aren't playing around when it comes to keeping our community respectful and drama-free. So, get ready to unleash your inner rebel and have some fun while sticking to our rules. We can't wait to see what you bring to the table!",
+      "bold": false,
+      "inline": false
+    }
+  ],
+  "blocks": [
+    {
+      "id": 1,
+      "title": "Use Your Own Content",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "First and foremost, we want you to be authentic and original when it comes to your visual content. If you didn't take the photo or video yourself, then it's a no-go, baby. Copyright infringement is a major buzzkill, and we don't want any of that negativity in our space.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "But wait, there's more! If you happen to snap a pic of a cute kitty or anything else that catches your eye, go ahead and share it with us. Just make sure you get permission from the kitty first. We're all about respecting boundaries here at RAW.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Respect Others",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Our community is as diverse as the world we live in, and we want to make sure that everyone feels respected and included here. Even if you don't share the same beliefs or interests as someone else, please respect them. At RAW, we have zero tolerance for hate speech, toxic or abusive behavior, and any form of bullying. We encourage all users to report inappropriate behavior so we can keep our community safe and respectful space. Our community is all about kindness and respect, so let's all make sure to behave that way.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Don’t Pretend to Be Someone Else",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Don't try to be someone you're not because RAW was created for you to be your true, authentic self. Even though RAW features are making it almost impossible, please, do not try to find a loophole. Do not post visual content that is not depicting you.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Photo Guidelines",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "When it comes to posting photos, we've got some rules to keep things respectful and fun for everyone. ",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "First off, if you're posting any photos of kids, please make sure they're accompanied by an adult and dressed appropriately. We want to ensure the safety and well-being of all our users.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 3,
+            "text": "Next, we kindly ask that you refrain from posting photos of yourself in bikinis, underwear, or indoor swimwear, as well as shirtless pics (even shirtless mirror selfies are a no-go). We want to keep things classy and appropriate here.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 4,
+            "text": "Make sure your face is clearly visible in all your pics. We want to get to know the real you, after all!",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 5,
+            "text": "We ask that you don't post any photos containing watermarks, captions, or texts overlaid. Lastly, we also don't allow photos containing guns or any other weapons, or any acts of cruelty.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Illegal activities",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "We know you're a rebel at heart, but please don't use RAW as your playground for illegal activities. We don't want to be a buzzkill, but if we catch you breaking the law on our app, we'll have to lay down the law and ban you faster than you can say \"cuff me, officer!\" So let's keep things legal and fun, shall we?",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Using RAW as a Marketplace",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Look, we get it, you're a savvy entrepreneur and always on the hustle. But please, don't use RAW as your personal marketplace. We're all about love and connections here, not buying and selling. If we catch you using the app for these purposes, we'll have to give you the boot. And if your idea is epic and you share our values - better send your pitch doc to our partnership team! Let's stir up a cool collab and do it by the rules. You can find our contacts on the FAQ page. Otherwise, put down the sales pitch and let's get back to swiping for love, deal?",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "No Minors",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "We do not allow minors on our app, so please do not use RAW if you are younger than 18. Additionally, we want to emphasize that users should not upload any content featuring minors who are undressed or without adult supervision. This includes pictures of minors alone or in suggestive clothing. We take the safety of minors very seriously, and we have zero tolerance for any behavior that puts them at risk.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": "Piece of Advice",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Psst... we have a secret to share: being original is hot on RAW! Don't be a copycat and use the same tired pick-up lines on all your matches. Instead, show off your creative side and craft a unique message for each one. Trust us, it'll pay off big time in the dating game (wink, wink). So, be bold, be yourself, and get ready to make some sparks fly on RAW!",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": "Finale",
+      "texts": {
+        "order": 2,
+        "items": [
+          {
+            "id": 1,
+            "text": "Listen up, folks! RAW has got an automatic moderation system, and it's backed up by a team of real people. They'll be keeping a watchful eye on all RAW accounts to ensure everyone's safety and enjoyment. So, play by the rules and keep things clean, or else you might get a warning (unless you do something really, really bad and get banned right away). If you choose to ignore that warning, your RAW account will be history.",
+            "bold": false,
+            "mb": true
+          },
+          {
+            "id": 2,
+            "text": "All clear? Let’s get back to fun.",
+            "bold": false,
+            "mb": false
+          }
+        ]
+      }
+    }
+  ]
+}

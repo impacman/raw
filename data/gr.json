@@ -1,0 +1,54 @@
+{
+  "title": "RAW – Date 100% real people",
+  "img": {
+    "path": "gr",
+    "src": "main",
+    "alt": "RAW – Date 100% real people"
+  },
+  "info": [
+    {
+      "id": "1.4K RATINGS",
+      "title": "4.4",
+      "descr": "stars"
+    },
+    {
+      "id": "age",
+      "title": "17+",
+      "descr": "Years old"
+    },
+    {
+      "id": "category",
+      "title": "armchair",
+      "descr": "Lifestyle"
+    }
+  ],
+  "descr": {
+    "text": "Welcome to RAW, the game-changing dating app that&nbsp;is going viral across real folx. We’re all about true, unfiltered&nbsp;connections."
+  },
+  "descr2": {
+    "text": "No fakes, no catfishing, and no scams here – just<br> authentic raw people looking to fall in love at first<br> sight.",
+    "more": true
+  },
+  "reviews": {
+    "title": "Ratings & Reviews",
+    "img": {
+      "path": "gr",
+      "src": "rew",
+      "alt": "Ratings & Reviews"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title": "This one changed my mind",
+        "descr": "I've always been skeptical of new dating apps, but this one changed my mind. I haven't seen any scammers whatsoever, everyone seems totally real, and I can just swipe left and right without worry. I got a match really quickly, set up a date, and surprise — it was the best date I've ever had from a dating app.",
+        "date": "13 May<br>Sam"
+      },
+      {
+        "id": 2,
+        "title": "Thank you, RAW!",
+        "descr": "Ghosted so many times, I had lost all hope. Then I downloaded RAW. Everyone on here answers so fast I almost can't keep up. I got so many likes so soon. My self-confidence is back. Thank you, RAW!",
+        "date": "Apr 6<br>Jojo"
+      }
+    ]
+  }
+}

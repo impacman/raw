@@ -1,0 +1,147 @@
+{
+  "banner": {
+    "img": {
+      "path": "ambassadors",
+      "src": "banner",
+      "alt": "RAW Ambassadors Banner"
+    }
+  },
+  "im": [
+    {
+      "id": 1,
+      "type": "col",
+      "images": [
+        {
+          "id": 1,
+          "path": "im",
+          "src": "im-1",
+          "alt": "RAW Ambassadors Im 1",
+          "size": "big",
+          "modification": "medium"
+        }
+      ],
+      "title": {
+        "text": "Internship",
+        "transform": "transform-left-big"
+      },
+      "descr": {
+        "text": "Kickstart your portfolio – work with us on creative content and marketing activities. Promote <br>your ideas, and gain valuable experience and skills. You might even have an opportunity to <br>land a spot on our team in the future! We’ve got you covered every step of the way.",
+        "transform": "transform-left"
+      }
+    },
+    {
+      "id": 2,
+      "type": "row",
+      "images": [
+        {
+          "id": 1,
+          "path": "im",
+          "src": "im-2",
+          "alt": "RAW Ambassadors Im 2",
+          "size": "big",
+          "modification": "small"
+        }
+      ],
+      "title": {
+        "text": "Income system",
+        "transform": "transform-left"
+      },
+      "descr": {
+        "text": "We believe that hard work should always be rewarded, and that's why we <br>offer an unlimited compensation system. You can choose from a variety <br>of tasks that match your interests, and get paid for completing them! <br>Whether you're interested in bringing in new users, creating top-notch <br>content, or leading a team of ambassadors, we've got paid activities that <br>are perfect for you. Apply now to find out more about our full list of <br>opportunities and how much you can earn for each task. It's time to turn <br>your passion into profit with RAW!"
+      }
+    },
+    {
+      "id": 3,
+      "type": "row-reverse",
+      "images": [
+        {
+          "id": 1,
+          "path": "im",
+          "src": "im-3",
+          "alt": "RAW Ambassadors Im 3",
+          "size": "big",
+          "modification": "medium"
+        }
+      ],
+      "title": {
+        "text": "Visability",
+        "transform": "transform-left"
+      },
+      "descr": {
+        "text": "At RAW, we don't think talent should go unnoticed. <br>We want to give you the recognition you deserve! If <br>you create dope content, we'll promote it on our <br>social media platforms, in the press, and maybe <br>even on billboards (with your consent, of course) <br>and pay you fairly for your work."
+      }
+    },
+    {
+      "id": 4,
+      "type": "col",
+      "title": {
+        "text": "Community",
+        "transform": "transform-right"
+      },
+      "descr": {
+        "text": "We're all about building a community of woke, vibing pals who share our values and love for having a good <br>time. We thoroughly vet all applications to ensure we're bringing on team players who can contribute to each <br>other's personal and professional growth. Toxicity? Ain't nobody got time for that. <br>Join us for the perks, the laughs, and the good vibes!",
+        "transform": "transform-right"
+      }
+    },
+    {
+      "id": 5,
+      "type": "col",
+      "images": [
+        {
+          "id": 1,
+          "path": "im",
+          "src": "im-4",
+          "alt": "RAW Ambassadors Im 4",
+          "size": "big",
+          "modification": "big"
+        }
+      ],
+      "title": {
+        "text": "Perks",
+        "transform": "transform-left"
+      },
+      "descr": {
+        "text": "You surely can buy yourself flowers, but with RAW Ambassador Program has more to offer. That's why <br>we've created our Pink Token, giving you access to exclusive events, complete with welcome drinks, trendy <br>DJ sets, and an amazing atmosphere. In contrast, those Pink Tokens can be converted into a donation to <br>selected organizations. Moreover, you’ll receive our exclusive Influencers Kit and RAW Premium access. But <br>let's not forget the most important thing - it should be fun, right?",
+        "size": "big"
+      }
+    }
+  ],
+  "parallaxScrollImages": [
+    {
+      "id": 1,
+      "path": "paralax-move",
+      "src": "paralax-move-1",
+      "alt": "RAW Paralax Move 1"
+    },
+    {
+      "id": 2,
+      "path": "paralax-move",
+      "src": "paralax-move-2",
+      "alt": "RAW Paralax Move 2"
+    },
+    {
+      "id": 3,
+      "path": "paralax-move",
+      "src": "paralax-move-3",
+      "alt": "RAW Paralax Move 3"
+    },
+    {
+      "id": 4,
+      "path": "paralax-move",
+      "src": "paralax-move-1",
+      "alt": "RAW Paralax Move 1"
+    },
+    {
+      "id": 5,
+      "path": "paralax-move",
+      "src": "paralax-move-2",
+      "alt": "RAW Paralax Move 2"
+    },
+    {
+      "id": 6,
+      "path": "paralax-move",
+      "src": "paralax-move-3",
+      "alt": "RAW Paralax Move 3"
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "textsAnimation": {
+    "desktop": [
+      {
+        "id": 1,
+        "position": "bottom",
+        "active": true,
+        "rowsDesktop": [
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 1,
+                "item": "not another fake dating app",
+                "weight": "light"
+              }
+            ]
+          }
+        ],
+        "rowsMobile": [
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 1,
+                "item": "",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "positionMobile": "bottom-right",
+            "items": [
+              {
+                "id": 1,
+                "item": "not another fake dating app",
+                "weight": "light"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "position": "bottom",
+        "rowsDesktop": [
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 1,
+                "item": "LOVE AT FIRST ",
+                "weight": "bold"
+              },
+              {
+                "id": 2,
+                "item": "BACK&FRONT SHOT",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "items": [
+              {
+                "id": 1,
+                "item": "&nbsp",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "items": [
+              {
+                "id": 1,
+                "item": "RAW ENCOURAGES PEOPLE TO SHOW THE ",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "items": [
+              {
+                "id": 1,
+                "item": "TRUE, UNFILTERED VERSION OF THEMSELVES ",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "items": [
+              {
+                "id": 1,
+                "item": "THROUGH ",
+                "weight": "light"
+              },
+              {
+                "id": 2,
+                "item": "DAILY PHOTO UPDATES ",
+                "weight": "bold"
+              },
+              {
+                "id": 3,
+                "item": "MADE ",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "items": [
+              {
+                "id": 1,
+                "item": "WITH ",
+                "weight": "light"
+              },
+              {
+                "id": 2,
+                "item": "dual camera, ",
+                "weight": "bold"
+              },
+              {
+                "id": 3,
+                "item": "REAL-TIME ONLY",
+                "weight": "light"
+              }
+            ]
+          }
+        ],
+        "rowsMobile": [
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 1,
+                "item": "Raw encourages people to show the true, ",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "items": [
+              {
+                "id": 1,
+                "item": "unfiltered self with daily photo updates ",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "items": [
+              {
+                "id": 1,
+                "item": "made on dual camera realtime only ",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "positionMobile": "bottom-right",
+            "items": [
+              {
+                "id": 1,
+                "item": "Love at first back&front shot",
+                "weight": "light"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "position": "top",
+        "rowsDesktop": [
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 1,
+                "item": "Double camera, ",
+                "weight": "bold"
+              },
+              {
+                "id": 2,
+                "item": "not double standard",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "items": [
+              {
+                "id": 1,
+                "item": "&nbsp;",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "items": [
+              {
+                "id": 1,
+                "item": "SWIPE ON TRUTH, MATCH ON REALITY WITH",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "items": [
+              {
+                "id": 1,
+                "item": "RAW: THE DATING APP WHERE ",
+                "weight": "light"
+              },
+              {
+                "id": 2,
+                "item": "THE REAL",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "items": [
+              {
+                "id": 1,
+                "item": "YOU SHINES THROUGH. NO FILTERS, ",
+                "weight": "light"
+              },
+              {
+                "id": 2,
+                "item": "NO FAKES,",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "items": [
+              {
+                "id": 1,
+                "item": "JUST GENUINE CONNECTIONS.",
+                "weight": "light"
+              }
+            ]
+          }
+        ],
+        "rowsMobile": [
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 1,
+                "item": "Swipe on truth, match on reality: The dating ",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "items": [
+              {
+                "id": 1,
+                "item": "app where the real you shines through. No ",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "items": [
+              {
+                "id": 1,
+                "item": "filters, no fakes, just genuine connections. ",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "positionMobile": "top-left",
+            "items": [
+              {
+                "id": 1,
+                "item": "Double camera, not double standard",
+                "weight": "light"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "position": "bottom",
+        "rowsDesktop": [
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 1,
+                "item": "ONE SHOT GETS YOU INTO TODAY'S",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "items": [
+              {
+                "id": 1,
+                "item": "SWIPE GAME. ",
+                "weight": "bold"
+              },
+              {
+                "id": 2,
+                "item": "THE TIME OF OUR POSTING",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "items": [
+              {
+                "id": 1,
+                "item": "PROMPT CHANGES EVERY DAY—SO OUR USERS",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "items": [
+              {
+                "id": 1,
+                "item": "NEVER KNOW WHEN AND WHERE THEY'LL BE ",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "items": [
+              {
+                "id": 1,
+                "item": "“CAUGHT,” KEEPING THEM ON THEIR TOES AND",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "items": [
+              {
+                "id": 1,
+                "item": "CREATING AN AIR OF SPONTANEITY.",
+                "weight": "light"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "items": [
+              {
+                "id": 1,
+                "item": "&nbsp;",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "items": [
+              {
+                "id": 1,
+                "item": "YOUR LOVE FOR REAL",
+                "weight": "bold"
+              }
+            ]
+          }
+        ],
+        "rowsMobile": [
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 1,
+                "item": "One shot gets you into today’s swipe game. ",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "items": [
+              {
+                "id": 1,
+                "item": "posting time changes every day — so users ",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "items": [
+              {
+                "id": 1,
+                "item": "never know when and where they'll be ",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "items": [
+              {
+                "id": 1,
+                "item": "'caught', creating an air of spontaneity. ",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "positionMobile": "bottom-right",
+            "items": [
+              {
+                "id": 1,
+                "item": "Your love for real",
+                "weight": "light"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "position": "bottom",
+        "rowsDesktop": [
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 1,
+                "item": "Get Unfiltered. True. Raw. ",
+                "weight": "light"
+              }
+            ]
+          }
+        ],
+        "rowsMobile": [
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 1,
+                "item": "Get Unfiltered. True. Raw. ",
+                "weight": "bold"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "notification": {
+    "link": "/mostwanted",
+    "img": {
+      "path": "mostwanted",
+      "src": "notification",
+      "alt": "Mostwanted Notification"
+    }
+  }
+}

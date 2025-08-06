@@ -1,0 +1,132 @@
+{
+  "banner": {
+    "img": {
+      "path": "partnership",
+      "src": "banner",
+      "alt": "RAW Membership Banner"
+    }
+  },
+  "btn": {
+    "text": "Join",
+    "textSend": "Send",
+    "textSending": "Sending...",
+    "type": "adaptive-scroll",
+    "href": "form-membership"
+  },
+  "about": {
+    "title": "_Members get",
+    "titleMin": true,
+    "descriptionTop": [
+      {
+        "id": 1,
+        "title": "/// Guest list rsvp for secret parties <br>&nbsp;",
+        "texts": [
+          {
+            "id": 1,
+            "text": "You'll receive exclusive invitations to our secret launch parties. Rub shoulders with cool people around, meet the RAW team, and be among the very first to try out the app"
+          },
+          {
+            "id": 2,
+            "text": "&nbsp;"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "/// Be the first to get a premium at <br>no cost",
+        "texts": [
+          {
+            "id": 1,
+            "text": "The first members to sign up will get a free month of our premium service. That means even more features, more matches, and more chances to find that special someone."
+          },
+          {
+            "id": 2,
+            "text": "&nbsp;"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "/// pink tokens to access RAW & partners’ <br>perks",
+        "texts": [
+          {
+            "id": 1,
+            "text": "Be the first to know about our exclusive RAW events and receive a special pink ticket to attend. Meet other RAW users in real life and have some fun."
+          },
+          {
+            "id": 2,
+            "text": "&nbsp;"
+          }
+        ]
+      }
+    ],
+    "previewApp": {
+      "parallaxEls": [
+        {
+          "id": 1,
+          "text": "rizz // easy_unfiltered // open_spontaneous //",
+          "speed": "-4"
+        },
+        {
+          "id": 2,
+          "text": "true_realpeople_love_bold_sincere",
+          "speed": "4"
+        }
+      ],
+      "guidlines": "join to become",
+      "vision": "unfiltered. true. raw",
+      "img": {
+        "path": "partnership",
+        "src": "preview-app",
+        "alt": "RAW Partnership Preview App"
+      }
+    }
+  },
+  "dataForm": {
+    "feeling": {
+      "text": "Not feeling the form? Then shoot us&nbsp;an&nbsp;email&nbsp;at&nbsp;",
+      "email": "hello@raw.app"
+    },
+    "form": {
+      "sheetID": 1857177743,
+      "inputValidation": ["name", "email"],
+      "fields": [
+        {
+          "id": "name",
+          "label": "Your name",
+          "placeholder": "",
+          "name": "name"
+        },
+        {
+          "id": "email",
+          "label": "Your email",
+          "placeholder": "",
+          "name": "email"
+        }
+      ],
+      "submit": {
+        "type": "submit",
+        "text": "Send",
+        "hidden": true
+      }
+    },
+    "doneTexts": [
+      {
+        "id": 1,
+        "text": "Your application was successfully sent and once"
+      },
+      {
+        "id": 2,
+        "text": "will get approved we will send you an email. "
+      },
+      {
+        "id": 3,
+        "text": "&nbsp;"
+      },
+      {
+        "id": 4,
+        "text": "Stay unfiltered. true. raw"
+      }
+    ]
+  }
+}

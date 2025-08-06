@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "id": "step-1",
+      "texts": {
+        "items": [
+          { "id": 1, "val": "(( FAST-FATE" },
+          { "id": 2, "val": "TO DREAM" },
+          { "id": 3, "val": "CRUSH" },
+          { "id": 4, "val": "AND DREAM" },
+          { "id": 5, "val": "prize )" }
+        ]
+      },
+      "prizes": {
+        "path": "mini",
+        "src": "prize",
+        "alt": "Prize"
+      }
+    },
+    {
+      "id": "step-2",
+      "texts": {
+        "items": [
+          {
+            "id": 1,
+            "val": "You dream of<br class='mobile'> <span class='italic violet'>destiny</span><br class='desktop'> that <span class='italic violet'>takes<br class='mobile'> time</span>:<br class='desktop'> meeting \"the<br class='mobile'> one,\"<br class='desktop'> falling in love,<br class='mobile'> finding<br class='desktop'> your<br class='mobile'> golden ticket...<br><span class='mt'>but <span class='italic violet'>you<br> know what?</span></span"
+          }
+        ]
+      },
+      "images": true
+    },
+    {
+      "id": "step-3",
+      "texts": {
+        "items": [
+          {
+            "id": 1,
+            "val": "Destiny is cool<span class='desktop'>,</span>"
+          },
+          {
+            "id": 2,
+            "val": "<span class='bold violet'>But RAW<br class='mobile'> <span class='italic'>is faster</span></span>"
+          }
+        ]
+      },
+      "list": {
+        "id": "fast",
+        "title": "FAST FATING PATH:",
+        "items": [
+          {
+            "id": 1,
+            "val": "Dual shot",
+            "time": "1 min",
+            "arrow": true
+          },
+          {
+            "id": 2,
+            "val": "Match wait",
+            "time": "7 min"
+          },
+          {
+            "id": 3,
+            "val": "Match to chat",
+            "time": "2 min"
+          },
+          {
+            "id": 4,
+            "val": "Date length",
+            "time": "12h",
+            "arrow": true
+          },
+          {
+            "id": 5,
+            "val": "Time to dream prize",
+            "time": "now"
+          }
+        ]
+      },
+      "images": true
+    },
+    {
+      "bg": "black",
+      "id": "step-4",
+      "texts": {
+        "items": [
+          {
+            "id": 1,
+            "val": "<span class='white'>HOW TO</span>"
+          },
+          {
+            "id": 2,
+            "val": "<span class='violet italic bold'>WIN A prize</span>"
+          }
+        ]
+      },
+      "list": {
+        "id": "win",
+        "items": [
+          {
+            "id": 1,
+            "text": "Get RAW"
+          },
+          {
+            "id": 2,
+            "text": "TURN ON NOTIFICATIONS & WAIT FOR<br class='desktop'> THE DROP PUSH"
+          },
+          {
+            "id": 3,
+            "text": "SWIPE TO FIND THE PRIZE DROP CARD"
+          },
+          {
+            "id": 4,
+            "text": "CLAIM YOUR PRIZE"
+          },
+          {
+            "id": 5,
+            "text": "FIND A DATE TO SHARE IT WITH"
+          },
+          {
+            "id": 6,
+            "text": "Remember: You can claim one drop<br class='desktop'> every 7 days"
+          }
+        ]
+      }
+    }
+  ]
+}

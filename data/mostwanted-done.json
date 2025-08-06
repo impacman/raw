@@ -1,0 +1,26 @@
+{
+  "textsDesktop": [
+    {
+      "id": 1,
+      "text": "Invite was sent successfully"
+    },
+    {
+      "id": 2,
+      "text": "Once they accept - we will let <br>you know"
+    }
+  ],
+  "textsMobile": [
+    {
+      "id": 1,
+      "text": "Invite was sent <br>successfully"
+    },
+    {
+      "id": 2,
+      "text": "Once they accept - <br>we will let you know"
+    }
+  ],
+  "link": {
+    "href": "/mostwanted",
+    "name": "Invite one more crush"
+  }
+}

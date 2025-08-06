@@ -1,0 +1,47 @@
+{
+  "name": "raw",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && node packaging.mjs",
+    "start": "next start",
+    "lint": "next lint",
+    "com": "generate-react component",
+    "page": "generate-react component --type=page",
+    "sharp": "node sharp.js"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.0.1",
+    "@lottiefiles/react-lottie-player": "^3.5.4",
+    "@next/font": "^14.2.13",
+    "firebase": "^11.1.0",
+    "framer-motion": "^8.5.0",
+    "generate-react-cli": "^8.3.0",
+    "google-spreadsheet": "^3.3.0",
+    "html-to-image": "^1.11.11",
+    "html2canvas": "^1.4.1",
+    "https-proxy-agent": "^7.0.5",
+    "locomotive-scroll": "^4.1.4",
+    "lottie-react": "^2.4.0",
+    "next": "^14.2.13",
+    "react": "18.2.0",
+    "react-device-detect": "^2.2.2",
+    "react-dom": "18.2.0",
+    "react-gtm-module": "^2.0.11",
+    "react-hook-form": "^7.43.9",
+    "react-icons": "^4.7.1",
+    "react-lazy-load-image-component": "^1.5.6",
+    "react-mobile-share": "^2.2.3",
+    "react-string-replace": "^1.1.1",
+    "sass": "^1.79.3",
+    "sharp": "^0.33.5",
+    "styled-components": "^5.3.6",
+    "swiper": "^8.4.6",
+    "use-resize-observer": "^9.1.0",
+    "yup": "^1.0.2"
+  },
+  "devDependencies": {
+    "eslint-config-next": "13.1.6"
+  }
+}

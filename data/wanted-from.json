@@ -1,0 +1,278 @@
+{
+  "img": {
+    "path": "mostwanted",
+    "src": "paper",
+    "alt": "Mostwanted Paper"
+  },
+  "stepsDesktop": [
+    {
+      "id": "wantedNumber",
+      "inputValidation": ["wantedNumber"],
+      "label": "We need your phone number that you register your raw account with (or planning to do so)",
+      "descr": {
+        "text": "We won’t share your number with anyone and will not use it for anything except connection you with your crush on RAW"
+      },
+      "inputs": [
+        {
+          "id": 1,
+          "type": "text",
+          "placeholder": "",
+          "name": "wantedNumber",
+          "phone": [
+            {
+              "id": 1,
+              "number": "+1",
+              "name": "US"
+            },
+            {
+              "id": 2,
+              "number": "+1",
+              "name": "CA"
+            },
+            {
+              "id": 3,
+              "number": "+61",
+              "name": "AU"
+            },
+            {
+              "id": 4,
+              "number": "+44",
+              "name": "UK"
+            }
+          ]
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "next"
+      }
+    },
+    {
+      "id": "wantedInfo",
+      "inputValidation": ["wantedInfoName", "wantedInfoContact"],
+      "label": "We need your beloved one name and contact point to invite them to RAW",
+      "inputs": [
+        {
+          "id": 1,
+          "type": "text",
+          "label": "Name",
+          "placeholder": "type their name",
+          "name": "wantedInfoName"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "label": "Email or Socials ",
+          "placeholder": "type their deets",
+          "name": "wantedInfoContact"
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "next"
+      }
+    },
+    {
+      "id": "wantedCompliment",
+      "inputValidation": [],
+      "label": "Pick the compliment",
+      "descr": {
+        "link": true,
+        "absolute": true,
+        "text": "Press SEND means you read our <br><span>Privacy Policy</span> and ready for LOVE",
+        "href": "/mostwanted/privacy-policy"
+      },
+      "inputs": [
+        {
+          "id": 1,
+          "type": "text",
+          "placeholder": "",
+          "name": "wantedCompliment",
+          "compliment": true
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "send"
+      }
+    }
+  ],
+  "stepsMobile": [
+    {
+      "id": "wantedNumber",
+      "inputValidation": ["wantedNumber"],
+      "label": "What’s your number?",
+      "supLabel": "Provide the phone number you register your raw account with (or plan to do). We’ll ping you when your crush signs up",
+      "descr": {
+        "type": "text",
+        "text": "We won’t share your number with anyone and will not use it for anything except connection you with your crush on RAW"
+      },
+      "inputs": [
+        {
+          "id": 1,
+          "type": "number",
+          "placeholder": "",
+          "name": "wantedNumber",
+          "phone": [
+            {
+              "id": 1,
+              "number": "+1",
+              "name": "US"
+            },
+            {
+              "id": 2,
+              "number": "+1",
+              "name": "CA"
+            },
+            {
+              "id": 3,
+              "number": "+61",
+              "name": "AU"
+            },
+            {
+              "id": 4,
+              "number": "+44",
+              "name": "UK"
+            }
+          ]
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "next"
+      }
+    },
+    {
+      "id": "wantedInfoName",
+      "inputValidation": ["wantedInfoName"],
+      "label": "What’s their name?",
+      "supLabel": "We need your beloved one name to know how we should call them",
+      "inputs": [
+        {
+          "id": 1,
+          "type": "text",
+          "label": "Name",
+          "placeholder": "type their name",
+          "name": "wantedInfoName"
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "next"
+      }
+    },
+    {
+      "id": "wantedInfoContact",
+      "inputValidation": ["wantedInfoContact"],
+      "label": "What’s their contact?",
+      "supLabel": "We need your beloved one contact point (e-mail or socials) to invite them to RAW",
+      "inputs": [
+        {
+          "id": 1,
+          "type": "text",
+          "label": "Name",
+          "placeholder": "type their deets",
+          "name": "wantedInfoContact"
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "next"
+      }
+    },
+    {
+      "id": "wantedCompliment",
+      "inputValidation": ["wantedCompliment"],
+      "label": "Pick the message",
+      "descr": {
+        "link": true,
+        "absolute": true,
+        "text": "Press SEND means you read our <span>Privacy Policy</span> and ready for LOVE",
+        "href": "/mostwanted/privacy-policy"
+      },
+      "inputs": [
+        {
+          "id": 1,
+          "type": "text",
+          "placeholder": "",
+          "name": "wantedCompliment",
+          "compliment": true
+        }
+      ],
+      "btn": {
+        "type": "submit",
+        "text": "send"
+      }
+    }
+  ],
+  "compliments": [
+    {
+      "id": 1,
+      "text": "There’s just something about you that I can’t resist… \n\nI want to get to know you better and see where things go. Take a chance and explore with me?"
+    },
+    {
+      "id": 2,
+      "text": "I’ve been crushing on you for a while, and I think we could be something special. \n\nLet’s connect and see if there’s a spark."
+    },
+    {
+      "id": 3,
+      "text": "I can’t stop thinking about you, I want to see if we have a connection. \n\nLet’s do something together and see where it takes us."
+    },
+    {
+      "id": 4,
+      "text": "Roses are red, violets are blue – I can’t stop thinking about you. \n\nWant to see if we can make a connection too?"
+    },
+    {
+      "id": 5,
+      "text": "When you’re nearby, my heart skips a beat. Your beauty and grace leave me in awe. \n\nI can’t wait to get to know you better and see where we end up."
+    },
+    {
+      "id": 6,
+      "text": "You’re always on my mind, all day and all night. \n\nI can’t help but imagine what’s in store for our future. Let’s take a chance and see what we could do together."
+    },
+    {
+      "id": 7,
+      "text": "My heart has been searching for you my whole life. \n\nI’m grateful to have found you, and I don’t want waste the chance. Let’s see where this love story goes."
+    },
+    {
+      "id": 8,
+      "text": "You make my heart skip a beat. \n\nWant to see if there’s a spark between us?"
+    },
+    {
+      "id": 9,
+      "text": "I’ve been crushing on you for so long, I think it’s time we do something about it. \n\nWant to see if we’re a match?"
+    },
+    {
+      "id": 10,
+      "text": "You’re the one that got away…until now. \n\nLet’s make up for lost time and start something now."
+    },
+    {
+      "id": 11,
+      "text": "Life’s an adventure, I want to explore it with you… \n\nWant to see where this journey goes?"
+    },
+    {
+      "id": 12,
+      "text": "Get ready for something wild, because you’re on my most wanted list. \n\nLet’s make a connection and see what happens next."
+    },
+    {
+      "id": 13,
+      "text": "I’m going out on a wire to invite you to join me. \n\nAre you ready to take a risk and start a new adventure together?"
+    },
+    {
+      "id": 14,
+      "text": "Our love is a spell that takes two to cast. \n\nLet’s go for it and make a bond that’s magical."
+    },
+    {
+      "id": 15,
+      "text": "Hey there, my message might make your heart race. \n\nBut it’s a chance to start something new, face-to-face."
+    },
+    {
+      "id": 16,
+      "text": "I hope this not doesn’t come off as absurd, but I want to explore our potential word-by-word."
+    },
+    {
+      "id": 17,
+      "text": "I couldn’t resist sending you a message, hoping it might make your heart race… \n\nYou’ve caught my attention, and I’m excited to see where this takes us."
+    }
+  ]
+}

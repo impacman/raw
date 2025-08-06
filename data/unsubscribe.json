@@ -1,0 +1,18 @@
+{
+  "sheetID": 161208305,
+  "form": {
+    "title": "Please verify your email to unsubscribe from&nbsp;our&nbsp;mailing&nbsp;list.",
+    "done": "You have now been unsubscribed from&nbsp;our&nbsp;mailing&nbsp;list.",
+    "inputValidation": ["email"],
+    "field": {
+      "type": "text",
+      "id": "email",
+      "placeholder": "wesorrytoseeyougo@raw.app",
+      "name": "email"
+    },
+    "submit": {
+      "type": "submit",
+      "text": "Unsubscribe"
+    }
+  }
+}

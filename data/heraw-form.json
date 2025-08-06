@@ -1,0 +1,38 @@
+{
+  "data": {
+    "form": {
+      "sheetID": 1349617323,
+      "inputValidation": ["heRawNumber"],
+      "fields": [
+        {
+          "id": "phone",
+          "label": "Enter your RAW app phone number <br />to join HERAW program",
+          "placeholder": "Your phone number",
+          "name": "heRawNumber"
+        }
+      ],
+      "submit": {
+        "type": "submit",
+        "text": "Send"
+      }
+    },
+    "doneTexts": [
+      {
+        "id": 1,
+        "text": "Thank you for your RAWmessage."
+      },
+      {
+        "id": 2,
+        "text": "Our team will check it and get back to you."
+      },
+      {
+        "id": 3,
+        "text": "&nbsp;"
+      },
+      {
+        "id": 4,
+        "text": "Stay tuned. true. raw"
+      }
+    ]
+  }
+}
