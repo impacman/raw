@@ -5,7 +5,14 @@
   "description": [
     {
       "id": 1,
-      "text": "Organized by Techlead Limited\nProject Period: August 1 – October 31, 2025",
+      "text": "Organized by Techlead Limited",
+      "bold": false,
+      "inline": false,
+      "mb": true
+    },
+    {
+      "id": 2,
+      "text": "Project Period: August 1 – October 31, 2025",
       "bold": false,
       "inline": false,
       "mb": true

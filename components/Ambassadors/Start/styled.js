@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import styled from "styled-components";
+import { mobVw } from "@/context/convertPxToVw";
 
 export const StartCom = styled.div`
   position: relative;
@@ -8,17 +9,17 @@ export const StartCom = styled.div`
   display: flex;
 
   @media only screen and (min-width: 576px) {
-    /* height: 49.083vw; */
     min-height: 100vh;
     padding: 9.25vw 0 20vw 2.833vw;
     justify-content: space-between;
   }
 
   @media only screen and (max-width: 575px) {
-    min-height: 100vh;
+    height: 100dvh;
     flex-direction: column;
     align-items: center;
-    padding: 0 3.089vw 7.465vw;
+    justify-content: flex-end;
+    padding: 0 ${mobVw.ambassadors(20)} ${mobVw.ambassadors(220)};
   }
 `;
 
@@ -46,7 +47,7 @@ export const Title = styled.h1`
     font-size: 10.057vw;
     text-align: center;
     letter-spacing: -0.3vw;
-    margin-bottom: 19.048vw;
+    flex: 0 0 auto;
   }
 
   & span {
@@ -76,9 +77,9 @@ export const Img = styled.div`
   @media only screen and (max-width: 575px) {
     position: relative;
     width: 57.658vw;
-    height: 99.614vw;
+    flex: 1 1 auto;
     order: -1;
-    margin-bottom: 4.891vw;
+    margin-bottom: ${mobVw.ambassadors(38)};
   }
 `;
 

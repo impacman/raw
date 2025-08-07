@@ -8,6 +8,7 @@ export const GridCom = styled.div`
   }
 
   @media only screen and (max-width: 575px) {
+    padding-right: ${mobVw.ambassadors(0)};
   }
 `;
 
@@ -26,7 +27,7 @@ export const Wrap = styled.div`
       $styledColsMob ? mobVw.ambassadors(585) : "auto"};
     grid-template-columns: ${({ $styledColsMob }) =>
       $styledColsMob ? `repeat(${$styledColsMob}, 1fr)` : "1fr"};
-    margin-top: ${mobVw.ambassadors(56)};
-    grid-gap: ${mobVw.ambassadors(41)};
+    margin-top: ${mobVw.ambassadors(66)};
+    grid-gap: ${mobVw.ambassadors(50)};
   }
 `;

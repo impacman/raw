@@ -13,7 +13,13 @@ export const DescrCom = styled.div`
   }
 
   & span {
-    line-height: 1.1;
+    @media only screen and (min-width: 576px) {
+      line-height: 1.1;
+    }
+
+    @media only screen and (max-width: 575px) {
+      line-height: 1.3;
+    }
   }
 
   @media only screen and (min-width: 576px) {
@@ -21,6 +27,6 @@ export const DescrCom = styled.div`
   }
 
   @media only screen and (max-width: 575px) {
-    font-size: ${mobVw.ambassadors(20)};
+    font-size: ${mobVw.ambassadors(26)};
   }
 `;

@@ -6,7 +6,7 @@ import Close from "../Close";
 const Done = () => (
   <DoneCom>
     <Close />
-    <Text>You're in. First step to RAW Ambassador status = complete 🔥</Text>
+    <Text>You're in. First step to RAW Internship = complete 🔥</Text>
     <Text>
       Our daredevil squad is reviewing your application. We'll hit you back with
       next steps soon. Meanwhile, check our website or&nbsp;

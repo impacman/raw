@@ -18,23 +18,6 @@ const Start = ({ triger, img }) => (
     <Img data-scroll data-scroll-repeat>
       <Picture path={img.path} src={img.src} alt={img.alt} />
     </Img>
-    {/* <WrapBtn>
-      <Btn
-        href="#type-form"
-        data-scroll-to
-        whileHover={{
-          backgroundColor: "var(--color-mauve)",
-          cursor: "pointer",
-          transition: { duration: 0.2 },
-        }}
-        whileTap={{
-          scale: 0.9,
-          transition: { duration: 0.2 },
-        }}
-      >
-        Apply for free
-      </Btn>
-    </WrapBtn> */}
   </StartCom>
 );
 

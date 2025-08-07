@@ -75,7 +75,7 @@ export const WrapBtn = styled.div`
   @media only screen and (max-width: 575px) {
     width: 100%;
     bottom: 0;
-    padding: 0 ${mobVw.ambassadors(24)} ${mobVw.ambassadors(24)};
+    padding: ${mobVw.ambassadors(24)} ${mobVw.ambassadors(24)};
   }
 
   transition: transform 0.3s ease 0.3s, opacity 0.3s ease 0s;
@@ -105,7 +105,7 @@ export const Btn = styled(motion.a)`
 
   @media only screen and (max-width: 575px) {
     width: 100%;
-    height: 17.117vw;
+    height: ${mobVw.ambassadors(133)};
     border-radius: 4.266vw;
     font-size: 4.266vw;
   }
